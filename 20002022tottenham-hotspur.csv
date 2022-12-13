@@ -1,0 +1,1091 @@
+,uniqueID,competition,round,date,time,homeTeam,awayTeam,firstHalfGoalsH,firstHalfGoalsA,secondHalfGoalsH,secondHalfGoalsA,extraTimeGoalsH,extraTimeGoalsA,penShootoutH,penShootoutA,resFT,venue,city,country,referee,attendance
+0,16091999TotFC ,Europa League,  1. Round,16/09/1999,Null,Tottenham Hotspurs,FC Zimbru,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Emanuel Zammit,32660
+1,30091999FC Tot,Europa League,  1. Round,30/09/1999,Null,FC Zimbru,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Republican ,Chişinău,Moldova,Georgios Kasnaferis,4500
+2,28101999Tot1. ,Europa League,  2. Round,28/10/1999,Null,Tottenham Hotspurs,1. FC Kaiserslautern,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Orhan Erdemir,35177
+3,041119991. Tot,Europa League,  2. Round,04/11/1999,Null,1. FC Kaiserslautern,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Fritz-Walter-Stadion ,Kaiserslautern,Germany,Juan Ansuategui Roca,29044
+4,07081999WesTot,Premier League,N/A,07/08/1999,14:00,West Ham United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Upton Park ,London,England,David Elleray,26010
+5,09081999TotNew,Premier League,N/A,09/08/1999,19:15,Tottenham Hotspurs,Newcastle United,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Harris,28701
+6,14081999TotEve,Premier League,N/A,14/08/1999,14:00,Tottenham Hotspurs,Everton FC,1,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paul Alcock,34539
+7,21081999SheTot,Premier League,N/A,21/08/1999,14:00,Sheffield Wednesday,Tottenham Hotspurs,1,2,1,2,Null,Null,Null,Null,A,Hillsborough ,Sheffield,England,Andy D'Urso,24027
+8,28081999TotLee,Premier League,N/A,28/08/1999,14:00,Tottenham Hotspurs,Leeds United,1,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Reed,36012
+9,12091999BraTot,Premier League,N/A,12/09/1999,15:00,Bradford City,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Valley Parade ,Bradford,England,Alan Wilkie,18143
+10,19091999TotCov,Premier League,N/A,19/09/1999,13:00,Tottenham Hotspurs,Coventry City,1,0,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andy D'Urso,35224
+11,26091999WimTot,Premier League,N/A,26/09/1999,15:00,Wimbledon FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Selhurst Park ,London,England,Graham Poll,17368
+12,03101999TotLei,Premier League,N/A,03/10/1999,13:00,Tottenham Hotspurs,Leicester City,2,1,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Graham Barber,35591
+13,16101999DerTot,Premier League,N/A,16/10/1999,14:00,Derby County,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Pride Park Stadium ,Derby,England,Paul Durkin,29815
+14,23101999TotMan,Premier League,N/A,23/10/1999,14:00,Tottenham Hotspurs,Manchester United,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jeff Winter,36072
+15,31101999SunTot,Premier League,N/A,31/10/1999,14:00,Sunderland AFC,Tottenham Hotspurs,2,0,2,1,Null,Null,Null,Null,H,Stadium of Light ,Sunderland,England,Mike Riley,41904
+16,07111999TotArs,Premier League,N/A,07/11/1999,14:00,Tottenham Hotspurs,Arsenal FC,2,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,David Elleray,36085
+17,20111999SouTot,Premier League,N/A,20/11/1999,14:00,Southampton FC,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,The Dell ,Southampton,England,Steve Bennett,15248
+18,28111999NewTot,Premier League,N/A,28/11/1999,13:00,Newcastle United,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Paul Alcock,36460
+19,06121999TotWes,Premier League,N/A,06/12/1999,19:00,Tottenham Hotspurs,West Ham United,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Peter Jones,36233
+20,18121999MidTot,Premier League,N/A,18/12/1999,14:00,Middlesbrough FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Riverside ,Middlesbrough,England,Steve Dunn,33129
+21,26121999TotWat,Premier League,N/A,26/12/1999,14:00,Tottenham Hotspurs,Watford FC,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Reed,36089
+22,29121999AstTot,Premier League,N/A,29/12/1999,19:00,Aston Villa,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Villa Park ,Birmingham,England,Graham Barber,39217
+23,03012000TotLiv,Premier League,N/A,03/01/2000,19:00,Tottenham Hotspurs,Liverpool FC,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wilkie,36044
+24,12012000CheTot,Premier League,N/A,12/01/2000,19:00,Chelsea FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Neale Barry,34969
+25,15012000EveTot,Premier League,N/A,15/01/2000,14:00,Everton FC,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Alan Wiley,36144
+26,22012000TotShe,Premier League,N/A,22/01/2000,14:00,Tottenham Hotspurs,Sheffield Wednesday,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Riley,35897
+27,05022000TotChe,Premier League,N/A,05/02/2000,14:00,Tottenham Hotspurs,Chelsea FC,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Graham Poll,36041
+28,12022000LeeTot,Premier League,N/A,12/02/2000,14:00,Leeds United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Elland Road ,Leeds,England,Dermot Gallagher,40127
+29,26022000CovTot,Premier League,N/A,26/02/2000,14:00,Coventry City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Highfield Road ,Coventry,England,Paul Durkin,23077
+30,04032000TotBra,Premier League,N/A,04/03/2000,14:00,Tottenham Hotspurs,Bradford City,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Peter Jones,35472
+31,11032000TotSou,Premier League,N/A,11/03/2000,14:00,Tottenham Hotspurs,Southampton FC,4,2,7,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,36024
+32,19032000ArsTot,Premier League,N/A,19/03/2000,15:00,Arsenal FC,Tottenham Hotspurs,2,1,2,1,Null,Null,Null,Null,H,Highbury ,London,England,Paul Durkin,38131
+33,25032000WatTot,Premier League,N/A,25/03/2000,15:00,Watford FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Vicarage Road ,Watford,England,Uriah Rennie,20050
+34,03042000TotMid,Premier League,N/A,03/04/2000,20:00,Tottenham Hotspurs,Middlesbrough FC,1,1,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Alan Wiley,31796
+35,09042000LivTot,Premier League,N/A,09/04/2000,15:00,Liverpool FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Stephen Lodge,44536
+36,15042000TotAst,Premier League,N/A,15/04/2000,15:00,Tottenham Hotspurs,Aston Villa,1,0,2,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Harris,35304
+37,19042000LeiTot,Premier League,N/A,19/04/2000,19:45,Leicester City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Filbert Street ,Leicester,England,Jeff Winter,19764
+38,22042000TotWim,Premier League,N/A,22/04/2000,15:00,Tottenham Hotspurs,Wimbledon FC,2,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Dermot Gallagher,33086
+39,29042000TotDer,Premier League,N/A,29/04/2000,15:00,Tottenham Hotspurs,Derby County,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Neale Barry,33044
+40,06052000ManTot,Premier League,N/A,06/05/2000,11:30,Manchester United,Tottenham Hotspurs,3,1,3,1,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Alan Wilkie,61629
+41,14052000TotSun,Premier League,N/A,14/05/2000,16:00,Tottenham Hotspurs,Sunderland AFC,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Riley,36070
+42,12121999TotNew,FA Cup,  3. Round,12/12/1999,Null,Tottenham Hotspurs,Newcastle United,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Graham Poll,33116
+43,22121999NewTot,FA Cup,  3. Round,22/12/1999,Null,Newcastle United,Tottenham Hotspurs,3,1,6,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Graham Poll,35415
+44,13101999TotCre,League Cup,  3. Round,13/10/1999,Null,Tottenham Hotspurs,Crewe Alexandra,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Clive Wilkes,25486
+45,01121999FulTot,League Cup,  Round of 16,01/12/1999,Null,Fulham FC,Tottenham Hotspurs,2,1,3,1,Null,Null,Null,Null,H,Craven Cottage ,London,England,Dermot Gallagher,18134
+46,19082000TotIps,Premier League,N/A,19/08/2000,15:00,Tottenham Hotspurs,Ipswich Town,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,36148
+47,22082000MidTot,Premier League,N/A,22/08/2000,19:45,Middlesbrough FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Riverside ,Middlesbrough,England,Peter Jones,31254
+48,26082000NewTot,Premier League,N/A,26/08/2000,15:00,Newcastle United,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,David Elleray,51573
+49,05092000TotEve,Premier League,N/A,05/09/2000,19:45,Tottenham Hotspurs,Everton FC,1,2,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Barry Knight,35316
+50,11092000TotWes,Premier League,N/A,11/09/2000,20:00,Tottenham Hotspurs,West Ham United,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,33282
+51,16092000ChaTot,Premier League,N/A,16/09/2000,15:00,Charlton Athletic,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,The Valley ,London,England,Jeff Winter,20043
+52,23092000TotMan,Premier League,N/A,23/09/2000,15:00,Tottenham Hotspurs,Manchester City,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Steve Bennett,36069
+53,30092000LeeTot,Premier League,N/A,30/09/2000,15:00,Leeds United,Tottenham Hotspurs,0,1,4,3,Null,Null,Null,Null,H,Elland Road ,Leeds,England,Neale Barry,37562
+54,14102000CovTot,Premier League,N/A,14/10/2000,15:00,Coventry City,Tottenham Hotspurs,2,0,2,1,Null,Null,Null,Null,H,Highfield Road ,Coventry,England,Peter Jones,21435
+55,21102000TotDer,Premier League,N/A,21/10/2000,15:00,Tottenham Hotspurs,Derby County,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,34483
+56,28102000CheTot,Premier League,N/A,28/10/2000,15:00,Chelsea FC,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Steve Dunn,34966
+57,04112000TotSun,Premier League,N/A,04/11/2000,15:00,Tottenham Hotspurs,Sunderland AFC,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Dermot Gallagher,36016
+58,11112000AstTot,Premier League,N/A,11/11/2000,15:00,Aston Villa,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Villa Park ,Birmingham,England,Barry Knight,33608
+59,19112000TotLiv,Premier League,N/A,19/11/2000,16:00,Tottenham Hotspurs,Liverpool FC,2,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,36036
+60,25112000TotLei,Premier League,N/A,25/11/2000,15:00,Tottenham Hotspurs,Leicester City,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Harris,35636
+61,02122000ManTot,Premier League,N/A,02/12/2000,15:00,Manchester United,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Graham Poll,67583
+62,09122000BraTot,Premier League,N/A,09/12/2000,15:00,Bradford City,Tottenham Hotspurs,1,2,3,3,Null,Null,Null,Null,D,Valley Parade ,Bradford,England,Neale Barry,17225
+63,18122000TotArs,Premier League,N/A,18/12/2000,20:00,Tottenham Hotspurs,Arsenal FC,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Jeff Winter,36062
+64,23122000TotMid,Premier League,N/A,23/12/2000,15:00,Tottenham Hotspurs,Middlesbrough FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Rob Styles,35638
+65,27122000SouTot,Premier League,N/A,27/12/2000,20:00,Southampton FC,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,The Dell ,Southampton,England,David Elleray,15237
+66,30122000IpsTot,Premier League,N/A,30/12/2000,12:00,Ipswich Town,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Portman Road ,Ipswich,England,Matt Messias,22234
+67,02012001TotNew,Premier League,N/A,02/01/2001,19:45,Tottenham Hotspurs,Newcastle United,3,1,4,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Bennett,34324
+68,13012001EveTot,Premier League,N/A,13/01/2001,15:00,Everton FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Andy D'Urso,32290
+69,20012001TotSou,Premier League,N/A,20/01/2001,15:00,Tottenham Hotspurs,Southampton FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Clive Wilkes,36095
+70,31012001WesTot,Premier League,N/A,31/01/2001,19:45,West Ham United,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Upton Park ,London,England,Neale Barry,26048
+71,03022001TotCha,Premier League,N/A,03/02/2001,15:00,Tottenham Hotspurs,Charlton Athletic,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,David Elleray,35368
+72,10022001ManTot,Premier League,N/A,10/02/2001,15:00,Manchester City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Maine Road ,Manchester,England,Steve Dunn,34399
+73,24022001TotLee,Premier League,N/A,24/02/2001,15:00,Tottenham Hotspurs,Leeds United,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jeff Winter,36070
+74,03032001DerTot,Premier League,N/A,03/03/2001,15:00,Derby County,Tottenham Hotspurs,2,0,2,1,Null,Null,Null,Null,H,Pride Park Stadium ,Derby,England,Rob Harris,29410
+75,17032001TotCov,Premier League,N/A,17/03/2001,15:00,Tottenham Hotspurs,Coventry City,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Graham Poll,35606
+76,31032001ArsTot,Premier League,N/A,31/03/2001,15:00,Arsenal FC,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Highbury ,London,England,Paul Durkin,38121
+77,10042001TotBra,Premier League,N/A,10/04/2001,19:45,Tottenham Hotspurs,Bradford City,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Bennett,28306
+78,14042001SunTot,Premier League,N/A,14/04/2001,15:00,Sunderland AFC,Tottenham Hotspurs,2,0,2,3,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,David Elleray,48029
+79,17042001TotChe,Premier League,N/A,17/04/2001,19:45,Tottenham Hotspurs,Chelsea FC,0,1,0,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Graham Barber,36074
+80,22042001LivTot,Premier League,N/A,22/04/2001,15:00,Liverpool FC,Tottenham Hotspurs,1,1,3,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Barry Knight,43547
+81,28042001TotAst,Premier League,N/A,28/04/2001,15:00,Tottenham Hotspurs,Aston Villa,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Clive Wilkes,36096
+82,05052001LeiTot,Premier League,N/A,05/05/2001,15:00,Leicester City,Tottenham Hotspurs,1,0,4,2,Null,Null,Null,Null,H,Filbert Street ,Leicester,England,Mike Dean,21056
+83,19052001TotMan,Premier League,N/A,19/05/2001,15:00,Tottenham Hotspurs,Manchester United,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andy D'Urso,36072
+84,06012001LeyTot,FA Cup,  3. Round,06/01/2001,Null,Leyton Orient,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Brisbane Road ,Leyton,England,Peter Jones,12336
+85,07022001ChaTot,FA Cup,  4. Round,07/02/2001,Null,Charlton Athletic,Tottenham Hotspurs,1,0,2,4,Null,Null,Null,Null,A,The Valley ,London,England,Steve Dunn,18101
+86,17022001TotSto,FA Cup,  Round of 16,17/02/2001,Null,Tottenham Hotspurs,Stockport County,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Clive Wilkes,36040
+87,11032001WesTot,FA Cup,  Quarter-finals,11/03/2001,Null,West Ham United,Tottenham Hotspurs,1,1,2,3,Null,Null,Null,Null,A,Upton Park ,London,England,Andy D'Urso,26048
+88,08042001TotArs,FA Cup,  Semi-finals,08/04/2001,Null,Tottenham Hotspurs,Arsenal FC,1,1,1,2,Null,Null,Null,Null,A,Old Trafford ,Manchester,England,Graham Poll,63541
+89,19092000BreTot,League Cup,  2. Round,19/09/2000,Null,Brentford FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Griffin Park ,London,England,Graham Barber,8580
+90,26092000TotBre,League Cup,  2. Round,26/09/2000,Null,Tottenham Hotspurs,Brentford FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Butler,26909
+91,31102000TotBir,League Cup,  3. Round,31/10/2000,Null,Tottenham Hotspurs,Birmingham City,0,3,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,David Pugh,27096
+92,18082001TotAst,Premier League,N/A,18/08/2001,15:00,Tottenham Hotspurs,Aston Villa,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Dermot Gallagher,36059
+93,20082001EveTot,Premier League,N/A,20/08/2001,20:00,Everton FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,David Elleray,29503
+94,25082001BlaTot,Premier League,N/A,25/08/2001,15:00,Blackburn Rovers,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Ewood Park ,Blackburn,England,Steve Bennett,24992
+95,09092001TotSou,Premier League,N/A,09/09/2001,14:00,Tottenham Hotspurs,Southampton FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,33668
+96,16092001TotChe,Premier League,N/A,16/09/2001,14:00,Tottenham Hotspurs,Chelsea FC,0,1,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Dunn,36037
+97,19092001SunTot,Premier League,N/A,19/09/2001,20:00,Sunderland AFC,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,Paul Durkin,47310
+98,22092001LivTot,Premier League,N/A,22/09/2001,15:00,Liverpool FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Dermot Gallagher,44116
+99,29092001TotMan,Premier League,N/A,29/09/2001,15:00,Tottenham Hotspurs,Manchester United,3,0,3,5,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jeff Winter,36038
+100,15102001TotDer,Premier League,N/A,15/10/2001,20:00,Tottenham Hotspurs,Derby County,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,30148
+101,21102001NewTot,Premier League,N/A,21/10/2001,14:00,Newcastle United,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Alan Wiley,50593
+102,27102001TotMid,Premier League,N/A,27/10/2001,15:00,Tottenham Hotspurs,Middlesbrough FC,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,36062
+103,04112001LeeTot,Premier League,N/A,04/11/2001,12:00,Leeds United,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Elland Road ,Leeds,England,Steve Bennett,40203
+104,17112001TotArs,Premier League,N/A,17/11/2001,15:00,Tottenham Hotspurs,Arsenal FC,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Jeff Winter,36049
+105,24112001WesTot,Premier League,N/A,24/11/2001,15:00,West Ham United,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Upton Park ,London,England,David Elleray,32780
+106,03122001TotBol,Premier League,N/A,03/12/2001,20:00,Tottenham Hotspurs,Bolton Wanderers,0,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paul Durkin,32971
+107,08122001ChaTot,Premier League,N/A,08/12/2001,15:00,Charlton Athletic,Tottenham Hotspurs,2,0,3,1,Null,Null,Null,Null,H,The Valley ,London,England,Steve Dunn,25125
+108,15122001TotFul,Premier League,N/A,15/12/2001,15:00,Tottenham Hotspurs,Fulham FC,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neale Barry,36054
+109,22122001TotIps,Premier League,N/A,22/12/2001,15:00,Tottenham Hotspurs,Ipswich Town,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Riley,36040
+110,26122001SouTot,Premier League,N/A,26/12/2001,12:00,Southampton FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Peter Jones,31719
+111,29122001AstTot,Premier League,N/A,29/12/2001,15:00,Aston Villa,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Villa Park ,Birmingham,England,Eddie Wolstenholme,41134
+112,01012002TotBla,Premier League,N/A,01/01/2002,15:00,Tottenham Hotspurs,Blackburn Rovers,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jeff Winter,35131
+113,12012002IpsTot,Premier League,N/A,12/01/2002,15:00,Ipswich Town,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Portman Road ,Ipswich,England,Matt Messias,25077
+114,19012002TotEve,Premier League,N/A,19/01/2002,15:00,Tottenham Hotspurs,Everton FC,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Clive Wilkes,36056
+115,30012002TotNew,Premier League,N/A,30/01/2002,19:45,Tottenham Hotspurs,Newcastle United,1,0,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Dean,35798
+116,02022002DerTot,Premier League,N/A,02/02/2002,12:00,Derby County,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Pride Park Stadium ,Derby,England,Uriah Rennie,27721
+117,09022002TotLei,Premier League,N/A,09/02/2002,15:00,Tottenham Hotspurs,Leicester City,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andy D'Urso,35973
+118,02032002TotSun,Premier League,N/A,02/03/2002,15:00,Tottenham Hotspurs,Sunderland AFC,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Styles,36062
+119,06032002ManTot,Premier League,N/A,06/03/2002,20:00,Manchester United,Tottenham Hotspurs,2,0,4,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Mike Riley,67059
+120,13032002CheTot,Premier League,N/A,13/03/2002,19:45,Chelsea FC,Tottenham Hotspurs,1,0,4,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Alan Wiley,39652
+121,18032002TotCha,Premier League,N/A,18/03/2002,20:00,Tottenham Hotspurs,Charlton Athletic,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jeff Winter,29602
+122,24032002FulTot,Premier League,N/A,24/03/2002,16:00,Fulham FC,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,Craven Cottage ,London,England,Paul Durkin,15885
+123,30032002MidTot,Premier League,N/A,30/03/2002,17:35,Middlesbrough FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Riverside ,Middlesbrough,England,Phil Dowd,31258
+124,01042002TotLee,Premier League,N/A,01/04/2002,15:00,Tottenham Hotspurs,Leeds United,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Uriah Rennie,35167
+125,06042002ArsTot,Premier League,N/A,06/04/2002,15:00,Arsenal FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Highbury ,London,England,Mark Halsey,38186
+126,13042002TotWes,Premier League,N/A,13/04/2002,15:00,Tottenham Hotspurs,West Ham United,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Neale Barry,36083
+127,20042002BolTot,Premier League,N/A,20/04/2002,15:00,Bolton Wanderers,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Reebok Stadium ,Bolton,England,Matt Messias,25817
+128,27042002TotLiv,Premier League,N/A,27/04/2002,12:00,Tottenham Hotspurs,Liverpool FC,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Jones,36017
+129,11052002LeiTot,Premier League,N/A,11/05/2002,15:00,Leicester City,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Filbert Street ,Leicester,England,David Elleray,21716
+130,16012002CovTot,FA Cup,  3. Round,16/01/2002,Null,Coventry City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Highfield Road ,Coventry,England,Neale Barry,20758
+131,05022002TotBol,FA Cup,  4. Round,05/02/2002,Null,Tottenham Hotspurs,Bolton Wanderers,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,27093
+132,17022002TotTra,FA Cup,  Round of 16,17/02/2002,Null,Tottenham Hotspurs,Tranmere Rovers,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,David Elleray,30696
+133,10032002TotChe,FA Cup,  Quarter-finals,10/03/2002,Null,Tottenham Hotspurs,Chelsea FC,0,1,0,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andy D'Urso,32896
+134,13092001TotTor,League Cup,  2. Round,13/09/2001,Null,Tottenham Hotspurs,Torquay United,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Warren,20347
+135,09102001TraTot,League Cup,  3. Round,09/10/2001,Null,Tranmere Rovers,Tottenham Hotspurs,0,2,0,4,Null,Null,Null,Null,A,Prenton Park ,Birkenhead,England,Phil Dowd,12386
+136,29112001FulTot,League Cup,  Round of 16,29/11/2001,Null,Fulham FC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Craven Cottage ,London,England,Mark Halsey,17006
+137,11122001TotBol,League Cup,  Quarter-finals,11/12/2001,Null,Tottenham Hotspurs,Bolton Wanderers,4,0,6,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Graham Barber,28430
+138,09012002CheTot,League Cup,  Semi-finals,09/01/2002,Null,Chelsea FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Alan Wiley,37264
+139,23012002TotChe,League Cup,  Semi-finals,23/01/2002,Null,Tottenham Hotspurs,Chelsea FC,2,0,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,36100
+140,24022002TotBla,League Cup,  Final,24/02/2002,Null,Tottenham Hotspurs,Blackburn Rovers,1,1,1,2,Null,Null,Null,Null,A,Millennium ,Cardiff,Wales,Graham Poll,72500
+141,17082002EveTot,Premier League,N/A,17/08/2002,15:00,Everton FC,Tottenham Hotspurs,1,0,2,2,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Neale Barry,40120
+142,24082002TotAst,Premier League,N/A,24/08/2002,15:00,Tottenham Hotspurs,Aston Villa,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Clive Wilkes,35384
+143,27082002ChaTot,Premier League,N/A,27/08/2002,19:45,Charlton Athletic,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,The Valley ,London,England,Alan Wiley,26461
+144,31082002TotSou,Premier League,N/A,31/08/2002,15:00,Tottenham Hotspurs,Southampton FC,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35573
+145,11092002FulTot,Premier League,N/A,11/09/2002,19:45,Fulham FC,Tottenham Hotspurs,0,2,3,2,Null,Null,Null,Null,H,Loftus Road ,London,England,Mark Halsey,16757
+146,15092002TotWes,Premier League,N/A,15/09/2002,16:05,Tottenham Hotspurs,West Ham United,0,0,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Uriah Rennie,36005
+147,21092002ManTot,Premier League,N/A,21/09/2002,15:00,Manchester United,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Rob Styles,67611
+148,28092002TotMid,Premier League,N/A,28/09/2002,15:00,Tottenham Hotspurs,Middlesbrough FC,0,1,0,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Graham Poll,36082
+149,06102002BlaTot,Premier League,N/A,06/10/2002,15:00,Blackburn Rovers,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Ewood Park ,Blackburn,England,Andy D'Urso,26203
+150,20102002TotBol,Premier League,N/A,20/10/2002,16:05,Tottenham Hotspurs,Bolton Wanderers,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paul Durkin,35909
+151,26102002LivTot,Premier League,N/A,26/10/2002,15:00,Liverpool FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Mike Riley,44084
+152,03112002TotChe,Premier League,N/A,03/11/2002,14:00,Tottenham Hotspurs,Chelsea FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Rob Styles,36049
+153,10112002SunTot,Premier League,N/A,10/11/2002,16:05,Sunderland AFC,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Stadium of Light ,Sunderland,England,Uriah Rennie,40024
+154,16112002ArsTot,Premier League,N/A,16/11/2002,15:00,Arsenal FC,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Highbury ,London,England,Mike Riley,38152
+155,24112002TotLee,Premier League,N/A,24/11/2002,14:00,Tottenham Hotspurs,Leeds United,2,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Bennett,35718
+156,30112002BirTot,Premier League,N/A,30/11/2002,15:00,Birmingham City,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,St Andrew's Ground ,Birmingham,England,Eddie Wolstenholme,29505
+157,08122002TotWes,Premier League,N/A,08/12/2002,16:05,Tottenham Hotspurs,West Bromwich Albion,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,35958
+158,15122002TotArs,Premier League,N/A,15/12/2002,14:00,Tottenham Hotspurs,Arsenal FC,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Neale Barry,36076
+159,23122002ManTot,Premier League,N/A,23/12/2002,20:00,Manchester City,Tottenham Hotspurs,1,1,2,3,Null,Null,Null,Null,A,Maine Road ,Manchester,England,Jeff Winter,34563
+160,26122002TotCha,Premier League,N/A,26/12/2002,12:00,Tottenham Hotspurs,Charlton Athletic,0,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Andy D'Urso,36043
+161,29122002NewTot,Premier League,N/A,29/12/2002,14:00,Newcastle United,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Steve Bennett,52145
+162,01012003SouTot,Premier League,N/A,01/01/2003,15:00,Southampton FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Mark Halsey,31890
+163,12012003TotEve,Premier League,N/A,12/01/2003,14:00,Tottenham Hotspurs,Everton FC,1,1,4,3,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,36070
+164,18012003AstTot,Premier League,N/A,18/01/2003,15:00,Aston Villa,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Neale Barry,38576
+165,29012003TotNew,Premier League,N/A,29/01/2003,19:45,Tottenham Hotspurs,Newcastle United,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,David Elleray,36084
+166,01022003CheTot,Premier League,N/A,01/02/2003,15:00,Chelsea FC,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Paul Durkin,41384
+167,08022003TotSun,Premier League,N/A,08/02/2003,15:00,Tottenham Hotspurs,Sunderland AFC,2,1,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Styles,36075
+168,24022003TotFul,Premier League,N/A,24/02/2003,20:00,Tottenham Hotspurs,Fulham FC,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Graham Barber,34704
+169,01032003WesTot,Premier League,N/A,01/03/2003,15:00,West Ham United,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Upton Park ,London,England,Neale Barry,35049
+170,16032003TotLiv,Premier League,N/A,16/03/2003,15:00,Tottenham Hotspurs,Liverpool FC,0,0,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Uriah Rennie,36077
+171,24032003BolTot,Premier League,N/A,24/03/2003,20:00,Bolton Wanderers,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Graham Poll,23084
+172,05042003TotBir,Premier League,N/A,05/04/2003,15:00,Tottenham Hotspurs,Birmingham City,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,David Elleray,36058
+173,12042003LeeTot,Premier League,N/A,12/04/2003,15:00,Leeds United,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,Elland Road ,Leeds,England,Rob Styles,39560
+174,18042003TotMan,Premier League,N/A,18/04/2003,15:00,Tottenham Hotspurs,Manchester City,0,2,0,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Riley,36075
+175,21042003WesTot,Premier League,N/A,21/04/2003,15:00,West Bromwich Albion,Tottenham Hotspurs,1,1,2,3,Null,Null,Null,Null,A,The Hawthorns ,WestBromwich,England,Phil Dowd,26899
+176,27042003TotMan,Premier League,N/A,27/04/2003,16:05,Tottenham Hotspurs,Manchester United,0,0,0,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jeff Winter,36073
+177,03052003MidTot,Premier League,N/A,03/05/2003,15:00,Middlesbrough FC,Tottenham Hotspurs,3,0,5,1,Null,Null,Null,Null,H,Riverside ,Middlesbrough,England,Uriah Rennie,30230
+178,11052003TotBla,Premier League,N/A,11/05/2003,15:00,Tottenham Hotspurs,Blackburn Rovers,0,2,0,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andy D'Urso,36036
+179,04012003SouTot,FA Cup,  3. Round,04/01/2003,Null,Southampton FC,Tottenham Hotspurs,1,0,4,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Mike Dean,25589
+180,01102002TotCar,League Cup,  2. Round,01/10/2002,Null,Tottenham Hotspurs,Cardiff City,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Scott Mathieson,23723
+181,06112002BurTot,League Cup,  3. Round,06/11/2002,Null,Burnley FC,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Turf Moor ,Burnley,England,Dermot Gallagher,13512
+182,16082003BirTot,Premier League,N/A,16/08/2003,12:00,Birmingham City,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,St Andrew's Ground ,Birmingham,England,Rob Styles,29358
+183,23082003TotLee,Premier League,N/A,23/08/2003,15:00,Tottenham Hotspurs,Leeds United,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,34354
+184,27082003LivTot,Premier League,N/A,27/08/2003,20:00,Liverpool FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Uriah Rennie,43778
+185,30082003TotFul,Premier League,N/A,30/08/2003,15:00,Tottenham Hotspurs,Fulham FC,0,1,0,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jeff Winter,33421
+186,13092003CheTot,Premier League,N/A,13/09/2003,15:00,Chelsea FC,Tottenham Hotspurs,2,1,4,2,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Graham Poll,41165
+187,20092003TotSou,Premier League,N/A,20/09/2003,15:00,Tottenham Hotspurs,Southampton FC,0,2,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andy D'Urso,35784
+188,28092003ManTot,Premier League,N/A,28/09/2003,16:05,Manchester City,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,City of Manchester Stadium ,Manchester,England,Neale Barry,46842
+189,04102003TotEve,Premier League,N/A,04/10/2003,15:00,Tottenham Hotspurs,Everton FC,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Dermot Gallagher,36137
+190,19102003LeiTot,Premier League,N/A,19/10/2003,14:00,Leicester City,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Walkers Stadium ,Leicester,England,Andy D'Urso,31521
+191,26102003TotMid,Premier League,N/A,26/10/2003,16:05,Tottenham Hotspurs,Middlesbrough FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,32643
+192,01112003TotBol,Premier League,N/A,01/11/2003,15:00,Tottenham Hotspurs,Bolton Wanderers,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Uriah Rennie,35191
+193,08112003ArsTot,Premier League,N/A,08/11/2003,15:00,Arsenal FC,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Highbury ,London,England,Mark Halsey,38101
+194,23112003TotAst,Premier League,N/A,23/11/2003,16:05,Tottenham Hotspurs,Aston Villa,0,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jeff Winter,35452
+195,29112003BlaTot,Premier League,N/A,29/11/2003,15:00,Blackburn Rovers,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Ewood Park ,Blackburn,England,Graham Poll,22802
+196,06122003TotWol,Premier League,N/A,06/12/2003,15:00,Tottenham Hotspurs,Wolverhampton Wanderers,1,1,5,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Uriah Rennie,34825
+197,13122003NewTot,Premier League,N/A,13/12/2003,15:00,Newcastle United,Tottenham Hotspurs,1,0,4,0,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Alan Wiley,52139
+198,21122003TotMan,Premier League,N/A,21/12/2003,16:05,Tottenham Hotspurs,Manchester United,0,2,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Styles,34793
+199,26122003PorTot,Premier League,N/A,26/12/2003,15:00,Portsmouth FC,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Fratton Park ,Portsmouth,England,Steve Dunn,20078
+200,28122003TotCha,Premier League,N/A,28/12/2003,15:00,Tottenham Hotspurs,Charlton Athletic,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Paul Durkin,34534
+201,07012004TotBir,Premier League,N/A,07/01/2004,19:45,Tottenham Hotspurs,Birmingham City,3,0,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Barry Knight,30016
+202,10012004LeeTot,Premier League,N/A,10/01/2004,15:00,Leeds United,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Elland Road ,Leeds,England,Mark Halsey,35365
+203,17012004TotLiv,Premier League,N/A,17/01/2004,15:00,Tottenham Hotspurs,Liverpool FC,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Uriah Rennie,36104
+204,31012004FulTot,Premier League,N/A,31/01/2004,15:00,Fulham FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Loftus Road ,London,England,Matt Messias,17024
+205,07022004TotPor,Premier League,N/A,07/02/2004,15:00,Tottenham Hotspurs,Portsmouth FC,2,1,4,3,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Walton,36107
+206,11022004ChaTot,Premier League,N/A,11/02/2004,20:00,Charlton Athletic,Tottenham Hotspurs,0,3,2,4,Null,Null,Null,Null,A,The Valley ,London,England,Graham Barber,26660
+207,22022004TotLei,Premier League,N/A,22/02/2004,16:05,Tottenham Hotspurs,Leicester City,3,1,4,4,Null,Null,Null,Null,D,White Hart Lane ,London,England,Neale Barry,35218
+208,09032004MidTot,Premier League,N/A,09/03/2004,20:00,Middlesbrough FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Riverside ,Middlesbrough,England,Mark Halsey,31789
+209,14032004TotNew,Premier League,N/A,14/03/2004,15:00,Tottenham Hotspurs,Newcastle United,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,36083
+210,20032004ManTot,Premier League,N/A,20/03/2004,15:00,Manchester United,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Dermot Gallagher,67634
+211,27032004SouTot,Premier League,N/A,27/03/2004,15:00,Southampton FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Chris Foy,31973
+212,03042004TotChe,Premier League,N/A,03/04/2004,15:00,Tottenham Hotspurs,Chelsea FC,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Bennett,36101
+213,09042004EveTot,Premier League,N/A,09/04/2004,20:00,Everton FC,Tottenham Hotspurs,3,0,3,1,Null,Null,Null,Null,H,Goodison Park ,Liverpool,England,Rob Styles,38086
+214,12042004TotMan,Premier League,N/A,12/04/2004,15:00,Tottenham Hotspurs,Manchester City,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Chris Foy,35282
+215,17042004BolTot,Premier League,N/A,17/04/2004,15:00,Bolton Wanderers,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Jeff Winter,26440
+216,25042004TotArs,Premier League,N/A,25/04/2004,16:05,Tottenham Hotspurs,Arsenal FC,0,2,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Halsey,36097
+217,02052004AstTot,Premier League,N/A,02/05/2004,15:00,Aston Villa,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Villa Park ,Birmingham,England,Neale Barry,42573
+218,08052004TotBla,Premier League,N/A,08/05/2004,15:00,Tottenham Hotspurs,Blackburn Rovers,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andy D'Urso,35698
+219,15052004WolTot,Premier League,N/A,15/05/2004,15:00,Wolverhampton Wanderers,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Molineux Stadium ,Wolverhampton,England,Steve Bennett,29389
+220,03012004TotCry,FA Cup,  3. Round,03/01/2004,Null,Tottenham Hotspurs,Crystal Palace,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andy D'Urso,32340
+221,25012004ManTot,FA Cup,  4. Round,25/01/2004,13:00,Manchester City,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,City of Manchester Stadium ,Manchester,England,Steve Dunn,34000
+222,04022004TotMan,FA Cup,  4. Round,04/02/2004,19:45,Tottenham Hotspurs,Manchester City,3,0,3,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Styles,30400
+223,24092003CovTot,League Cup,  2. Round,24/09/2003,19:45,Coventry City,Tottenham Hotspurs,0,2,0,3,Null,Null,Null,Null,A,Highfield Road ,Coventry,England,Mike Jones,15474
+224,29102003TotWes,League Cup,  3. Round,29/10/2003,19:45,Tottenham Hotspurs,West Ham United,0,0,0,0,1,0,Null,Null,H,White Hart Lane ,London,England,Graham Barber,36053
+225,03122003TotMan,League Cup,  Round of 16,03/12/2003,19:45,Tottenham Hotspurs,Manchester City,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paul Durkin,31727
+226,17122003TotMid,League Cup,  Quarter-finals,17/12/2003,19:45,Tottenham Hotspurs,Middlesbrough FC,1,0,1,1,1,1,4,5,A,White Hart Lane ,London,England,Mike Dean,25307
+227,14082004TotLiv,Premier League,N/A,14/08/2004,12:45,Tottenham Hotspurs,Liverpool FC,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Dermot Gallagher,35105
+228,21082004NewTot,Premier League,N/A,21/08/2004,15:00,Newcastle United,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Mike Dean,52185
+229,25082004WesTot,Premier League,N/A,25/08/2004,19:45,West Bromwich Albion,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Barry Knight,27191
+230,28082004TotBir,Premier League,N/A,28/08/2004,15:00,Tottenham Hotspurs,Birmingham City,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,35290
+231,12092004TotNor,Premier League,N/A,12/09/2004,16:05,Tottenham Hotspurs,Norwich City,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Howard Webb,36095
+232,19092004CheTot,Premier League,N/A,19/09/2004,16:05,Chelsea FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Mike Riley,42246
+233,25092004TotMan,Premier League,N/A,25/09/2004,15:00,Tottenham Hotspurs,Manchester United,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Peter Walton,36103
+234,02102004EveTot,Premier League,N/A,02/10/2004,15:00,Everton FC,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Goodison Park ,Liverpool,England,Graham Poll,38264
+235,18102004PorTot,Premier League,N/A,18/10/2004,20:00,Portsmouth FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Fratton Park ,Portsmouth,England,Uriah Rennie,20121
+236,23102004TotBol,Premier League,N/A,23/10/2004,15:00,Tottenham Hotspurs,Bolton Wanderers,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Chris Foy,36025
+237,30102004FulTot,Premier League,N/A,30/10/2004,15:00,Fulham FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Craven Cottage ,London,England,Alan Wiley,21317
+238,06112004TotCha,Premier League,N/A,06/11/2004,15:00,Tottenham Hotspurs,Charlton Athletic,0,2,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Neale Barry,35423
+239,13112004TotArs,Premier League,N/A,13/11/2004,12:00,Tottenham Hotspurs,Arsenal FC,1,1,4,5,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Bennett,36095
+240,22112004AstTot,Premier League,N/A,22/11/2004,20:00,Aston Villa,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Villa Park ,Birmingham,England,Chris Foy,35702
+241,28112004TotMid,Premier League,N/A,28/11/2004,15:00,Tottenham Hotspurs,Middlesbrough FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35772
+242,04122004BlaTot,Premier League,N/A,04/12/2004,17:15,Blackburn Rovers,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Ewood Park ,Blackburn,England,Mike Dean,22182
+243,11122004ManTot,Premier League,N/A,11/12/2004,15:00,Manchester City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,City of Manchester Stadium ,Manchester,England,Dermot Gallagher,45805
+244,18122004TotSou,Premier League,N/A,18/12/2004,15:00,Tottenham Hotspurs,Southampton FC,3,0,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36054
+245,26122004NorTot,Premier League,N/A,26/12/2004,15:00,Norwich City,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Carrow Road ,Norwich,England,Mike Riley,24508
+246,28122004TotCry,Premier League,N/A,28/12/2004,15:00,Tottenham Hotspurs,Crystal Palace,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Uriah Rennie,36100
+247,01012005TotEve,Premier League,N/A,01/01/2005,15:00,Tottenham Hotspurs,Everton FC,2,1,5,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,36102
+248,04012005ManTot,Premier League,N/A,04/01/2005,20:00,Manchester United,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Old Trafford ,Manchester,England,Mark Clattenburg,67962
+249,15012005TotChe,Premier League,N/A,15/01/2005,15:00,Tottenham Hotspurs,Chelsea FC,0,1,0,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Graham Poll,34500
+250,22012005CryTot,Premier League,N/A,22/01/2005,15:00,Crystal Palace,Tottenham Hotspurs,0,0,3,0,Null,Null,Null,Null,H,Selhurst Park ,London,England,Chris Foy,23723
+251,01022005BolTot,Premier League,N/A,01/02/2005,20:00,Bolton Wanderers,Tottenham Hotspurs,0,0,3,1,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Mike Dean,24780
+252,05022005TotPor,Premier League,N/A,05/02/2005,15:00,Tottenham Hotspurs,Portsmouth FC,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Dunn,36105
+253,26022005TotFul,Premier League,N/A,26/02/2005,15:00,Tottenham Hotspurs,Fulham FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neale Barry,35885
+254,05032005SouTot,Premier League,N/A,05/03/2005,15:00,Southampton FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Peter Walton,31903
+255,16032005ChaTot,Premier League,N/A,16/03/2005,20:00,Charlton Athletic,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,The Valley ,London,England,Chris Foy,26870
+256,19032005TotMan,Premier League,N/A,19/03/2005,15:00,Tottenham Hotspurs,Manchester City,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Barry Knight,35681
+257,02042005BirTot,Premier League,N/A,02/04/2005,15:00,Birmingham City,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,St Andrew's Ground ,Birmingham,England,Howard Webb,29304
+258,10042005TotNew,Premier League,N/A,10/04/2005,16:05,Tottenham Hotspurs,Newcastle United,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Bennett,35885
+259,16042005LivTot,Premier League,N/A,16/04/2005,15:00,Liverpool FC,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Mark Halsey,44029
+260,20042005TotWes,Premier League,N/A,20/04/2005,19:45,Tottenham Hotspurs,West Bromwich Albion,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Chris Foy,35885
+261,25042005ArsTot,Premier League,N/A,25/04/2005,20:00,Arsenal FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Highbury ,London,England,Mike Riley,38147
+262,01052005TotAst,Premier League,N/A,01/05/2005,13:00,Tottenham Hotspurs,Aston Villa,3,1,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36078
+263,07052005MidTot,Premier League,N/A,07/05/2005,15:00,Middlesbrough FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Riverside ,Middlesbrough,England,Dermot Gallagher,34766
+264,15052005TotBla,Premier League,N/A,15/05/2005,15:00,Tottenham Hotspurs,Blackburn Rovers,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Alan Wiley,35797
+265,08012005TotBri,FA Cup,  3. Round,08/01/2005,15:00,Tottenham Hotspurs,Brighton & Hove Albion,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,36094
+266,29012005WesTot,FA Cup,  4. Round,29/01/2005,15:00,West Bromwich Albion,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Mark Halsey,22441
+267,12022005TotWes,FA Cup,  4. Round,12/02/2005,17:30,Tottenham Hotspurs,West Bromwich Albion,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Styles,27860
+268,20022005TotNot,FA Cup,  Round of 16,20/02/2005,15:00,Tottenham Hotspurs,Nottingham Forest,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Steve Bennett,35640
+269,02032005NotTot,FA Cup,  Round of 16,02/03/2005,19:45,Nottingham Forest,Tottenham Hotspurs,0,0,0,3,Null,Null,Null,Null,A,City Ground ,Nottingham,England,Mark Clattenburg,28062
+270,13032005NewTot,FA Cup,  Quarter-finals,13/03/2005,16:00,Newcastle United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Rob Styles,51307
+271,22092004OldTot,League Cup,  2. Round,22/09/2004,19:45,Oldham Athletic,Tottenham Hotspurs,0,1,0,6,Null,Null,Null,Null,A,Boundary Park ,Oldham,England,Richard Beeby,8548
+272,27102004BolTot,League Cup,  3. Round,27/10/2004,20:00,Bolton Wanderers,Tottenham Hotspurs,1,1,2,2,3,4,Null,Null,A,Reebok Stadium ,Bolton,England,Mike Dean,18037
+273,09112004BurTot,League Cup,  Round of 16,09/11/2004,19:45,Burnley FC,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,Turf Moor ,Burnley,England,Graham Poll,10639
+274,01122004TotLiv,League Cup,  Quarter-finals,01/12/2004,19:45,Tottenham Hotspurs,Liverpool FC,0,0,0,0,1,1,3,4,A,White Hart Lane ,London,England,Neale Barry,36100
+275,13082005PorTot,Premier League,N/A,13/08/2005,15:00,Portsmouth FC,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Fratton Park ,Portsmouth,England,Barry Knight,20215
+276,20082005TotMid,Premier League,N/A,20/08/2005,15:00,Tottenham Hotspurs,Middlesbrough FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,35844
+277,24082005BlaTot,Premier League,N/A,24/08/2005,20:00,Blackburn Rovers,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Ewood Park ,Blackburn,England,Dermot Gallagher,22375
+278,27082005TotChe,Premier League,N/A,27/08/2005,15:00,Tottenham Hotspurs,Chelsea FC,0,1,0,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Styles,36077
+279,10092005TotLiv,Premier League,N/A,10/09/2005,15:00,Tottenham Hotspurs,Liverpool FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Howard Webb,36148
+280,17092005AstTot,Premier League,N/A,17/09/2005,17:15,Aston Villa,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Villa Park ,Birmingham,England,Steve Bennett,33686
+281,26092005TotFul,Premier League,N/A,26/09/2005,20:00,Tottenham Hotspurs,Fulham FC,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,35427
+282,01102005ChaTot,Premier League,N/A,01/10/2005,15:00,Charlton Athletic,Tottenham Hotspurs,1,0,2,3,Null,Null,Null,Null,A,The Valley ,London,England,Phil Dowd,27111
+283,15102005TotEve,Premier League,N/A,15/10/2005,15:00,Tottenham Hotspurs,Everton FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Dermot Gallagher,36247
+284,22102005ManTot,Premier League,N/A,22/10/2005,15:00,Manchester United,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Old Trafford ,Manchester,England,Uriah Rennie,67856
+285,29102005TotArs,Premier League,N/A,29/10/2005,13:00,Tottenham Hotspurs,Arsenal FC,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Steve Bennett,36154
+286,07112005BolTot,Premier League,N/A,07/11/2005,20:00,Bolton Wanderers,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Howard Webb,26634
+287,20112005TotWes,Premier League,N/A,20/11/2005,13:00,Tottenham Hotspurs,West Ham United,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Alan Wiley,36154
+288,26112005WigTot,Premier League,N/A,26/11/2005,15:00,Wigan Athletic,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,JJB Stadium ,Wigan,England,Mike Riley,22611
+289,03122005TotSun,Premier League,N/A,03/12/2005,15:00,Tottenham Hotspurs,Sunderland AFC,1,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Walton,36244
+290,12122005TotPor,Premier League,N/A,12/12/2005,20:00,Tottenham Hotspurs,Portsmouth FC,0,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Uriah Rennie,36141
+291,18122005MidTot,Premier League,N/A,18/12/2005,13:30,Middlesbrough FC,Tottenham Hotspurs,2,1,3,3,Null,Null,Null,Null,D,Riverside ,Middlesbrough,England,Howard Webb,27614
+292,26122005TotBir,Premier League,N/A,26/12/2005,13:00,Tottenham Hotspurs,Birmingham City,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36045
+293,28122005WesTot,Premier League,N/A,28/12/2005,19:45,West Bromwich Albion,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,The Hawthorns ,WestBromwich,England,Mike Riley,27510
+294,31122005TotNew,Premier League,N/A,31/12/2005,13:00,Tottenham Hotspurs,Newcastle United,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,36246
+295,04012006ManTot,Premier League,N/A,04/01/2006,20:00,Manchester City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,City of Manchester Stadium ,Manchester,England,Alan Wiley,40808
+296,14012006LivTot,Premier League,N/A,14/01/2006,15:00,Liverpool FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Dermot Gallagher,44983
+297,21012006TotAst,Premier League,N/A,21/01/2006,15:00,Tottenham Hotspurs,Aston Villa,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Graham Poll,36243
+298,31012006FulTot,Premier League,N/A,31/01/2006,20:00,Fulham FC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Craven Cottage ,London,England,Howard Webb,21081
+299,05022006TotCha,Premier League,N/A,05/02/2006,13:30,Tottenham Hotspurs,Charlton Athletic,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36034
+300,12022006SunTot,Premier League,N/A,12/02/2006,13:30,Sunderland AFC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Stadium of Light ,Sunderland,England,Andre Marriner,34700
+301,19022006TotWig,Premier League,N/A,19/02/2006,13:15,Tottenham Hotspurs,Wigan Athletic,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Uriah Rennie,35676
+302,05032006TotBla,Premier League,N/A,05/03/2006,16:00,Tottenham Hotspurs,Blackburn Rovers,2,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,36080
+303,11032006CheTot,Premier League,N/A,11/03/2006,12:45,Chelsea FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Graham Poll,42243
+304,18032006BirTot,Premier League,N/A,18/03/2006,17:15,Birmingham City,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,St Andrew's Ground ,Birmingham,England,Uriah Rennie,26398
+305,27032006TotWes,Premier League,N/A,27/03/2006,20:00,Tottenham Hotspurs,West Bromwich Albion,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,36152
+306,01042006NewTot,Premier League,N/A,01/04/2006,15:00,Newcastle United,Tottenham Hotspurs,3,1,3,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Mike Dean,52301
+307,08042006TotMan,Premier League,N/A,08/04/2006,12:45,Tottenham Hotspurs,Manchester City,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Dermot Gallagher,36167
+308,15042006EveTot,Premier League,N/A,15/04/2006,15:00,Everton FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Goodison Park ,Liverpool,England,Howard Webb,39856
+309,17042006TotMan,Premier League,N/A,17/04/2006,12:45,Tottenham Hotspurs,Manchester United,0,2,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mark Halsey,36141
+310,22042006ArsTot,Premier League,N/A,22/04/2006,12:45,Arsenal FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Highbury ,London,England,Steve Bennett,38326
+311,30042006TotBol,Premier League,N/A,30/04/2006,16:00,Tottenham Hotspurs,Bolton Wanderers,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,36179
+312,07052006WesTot,Premier League,N/A,07/05/2006,15:00,West Ham United,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Upton Park ,London,England,Chris Foy,34970
+313,08012006LeiTot,FA Cup,  3. Round,08/01/2006,18:30,Leicester City,Tottenham Hotspurs,1,2,3,2,Null,Null,Null,Null,H,Walkers Stadium ,Leicester,England,Steve Bennett,19844
+314,20092005GriTot,League Cup,  2. Round,20/09/2005,19:45,Grimsby Town,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Blundell Park ,Cleethorpes,England,Graham Laws,8206
+315,14092006SlaTot,Europa League,  1. Round,14/09/2006,19:00,Slavia Praha,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Evžena Rošického ,Praha,CzechRepublic,Hervé Piccirillo,14869
+316,28092006TotSla,Europa League,  1. Round,28/09/2006,20:00,Tottenham Hotspurs,Slavia Praha,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Tommy Skjerven,35191
+317,19102006BeşTot,Europa League,  Group B,19/10/2006,18:00,Beşiktaş,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Inönü ,Istanbul,Turkey,Nicolai Vollquartz,26800
+318,02112006TotClu,Europa League,  Group B,02/11/2006,20:00,Tottenham Hotspurs,Club Brugge KV,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alberto Undiano Mallenco,35716
+319,23112006BayTot,Europa League,  Group B,23/11/2006,19:30,Bayer Leverkusen,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,BayArena ,Leverkusen,Germany,Martin Hansson,22500
+320,14122006TotDin,Europa League,  Group B,14/12/2006,19:45,Tottenham Hotspurs,Dinamo Bucureşti,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Bernhard Brugger,34004
+321,20092007TotAno,Europa League,  1. Round,20/09/2007,20:00,Tottenham Hotspurs,Anorthosis Famagusta,4,0,6,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paolo Dondarini,35780
+322,04102007AnoTot,Europa League,  1. Round,04/10/2007,15:45,Anorthosis Famagusta,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Antonis Papadopoulos ,Larnaca,Cyprus,Pavel Královec,8000
+323,25102007TotGet,Europa League,  Group G,25/10/2007,19:45,Tottenham Hotspurs,Getafe CF,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Knut Kircher,36240
+324,08112007HapTot,Europa League,  Group G,08/11/2007,16:00,Hapoel Tel Aviv,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,Bloomfield Stadium ,Tel-Aviv,Israel,Grzegorz Gilewski,10000
+325,29112007TotAal,Europa League,  Group G,29/11/2007,19:45,Tottenham Hotspurs,Aalborg BK,0,2,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Pedro Proença,29758
+326,06122007RSCTot,Europa League,  Group G,06/12/2007,19:45,RSC Anderlecht,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Constant Vanden Stock ,Bruxelles,Belgium,Damir Skomina,22500
+327,14022008SlaTot,Europa League,  3. Round,14/02/2008,20:00,Slavia Praha,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Evžena Rošického ,Praha,CzechRepublic,Claudio Circhetta,11134
+328,21022008TotSla,Europa League,  3. Round,21/02/2008,19:45,Tottenham Hotspurs,Slavia Praha,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Jonas Eriksson,34224
+329,06032008TotPSV,Europa League,  Round of 16,06/03/2008,20:05,Tottenham Hotspurs,PSV Eindhoven,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Stéphane Lannoy,33259
+330,12032008PSVTot,Europa League,  Round of 16,12/03/2008,19:45,PSV Eindhoven,Tottenham Hotspurs,0,0,0,1,0,1,6,5,H,Philips Stadion ,Eindhoven,Netherlands,Matteo Trefoloni,33000
+331,11082007SunTot,Premier League,N/A,11/08/2007,12:45,Sunderland AFC,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Stadium of Light ,Sunderland,England,Alan Wiley,43967
+332,14082007TotEve,Premier League,N/A,14/08/2007,20:00,Tottenham Hotspurs,Everton FC,1,3,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mark Halsey,35716
+333,18082007TotDer,Premier League,N/A,18/08/2007,15:00,Tottenham Hotspurs,Derby County,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,35600
+334,26082007ManTot,Premier League,N/A,26/08/2007,16:00,Manchester United,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Howard Webb,75696
+335,01092007FulTot,Premier League,N/A,01/09/2007,15:00,Fulham FC,Tottenham Hotspurs,1,2,3,3,Null,Null,Null,Null,D,Craven Cottage ,London,England,Mike Riley,24007
+336,15092007TotArs,Premier League,N/A,15/09/2007,13:30,Tottenham Hotspurs,Arsenal FC,1,0,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mark Clattenburg,36053
+337,23092007BolTot,Premier League,N/A,23/09/2007,15:00,Bolton Wanderers,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Reebok Stadium ,Bolton,England,Andre Marriner,20308
+338,01102007TotAst,Premier League,N/A,01/10/2007,20:00,Tottenham Hotspurs,Aston Villa,1,3,4,4,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,36094
+339,07102007LivTot,Premier League,N/A,07/10/2007,15:00,Liverpool FC,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Mark Halsey,43986
+340,22102007NewTot,Premier League,N/A,22/10/2007,20:00,Newcastle United,Tottenham Hotspurs,1,0,3,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Steve Bennett,51411
+341,28102007TotBla,Premier League,N/A,28/10/2007,15:00,Tottenham Hotspurs,Blackburn Rovers,0,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Styles,36086
+342,03112007MidTot,Premier League,N/A,03/11/2007,15:00,Middlesbrough FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Riverside ,Middlesbrough,England,Mike Dean,25625
+343,11112007TotWig,Premier League,N/A,11/11/2007,15:00,Tottenham Hotspurs,Wigan Athletic,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,35504
+344,25112007WesTot,Premier League,N/A,25/11/2007,13:30,West Ham United,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Upton Park ,London,England,Mike Riley,34966
+345,02122007TotBir,Premier League,N/A,02/12/2007,16:00,Tottenham Hotspurs,Birmingham City,0,1,2,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Phil Dowd,35635
+346,09122007TotMan,Premier League,N/A,09/12/2007,15:00,Tottenham Hotspurs,Manchester City,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,35646
+347,15122007PorTot,Premier League,N/A,15/12/2007,15:00,Portsmouth FC,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Fratton Park ,Portsmouth,England,Martin Atkinson,20520
+348,22122007ArsTot,Premier League,N/A,22/12/2007,12:45,Arsenal FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Rob Styles,60087
+349,26122007TotFul,Premier League,N/A,26/12/2007,13:00,Tottenham Hotspurs,Fulham FC,2,0,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,36077
+350,29122007TotRea,Premier League,N/A,29/12/2007,15:00,Tottenham Hotspurs,Reading FC,1,1,6,4,Null,Null,Null,Null,H,White Hart Lane ,London,England,Keith Stroud,36178
+351,01012008AstTot,Premier League,N/A,01/01/2008,17:20,Aston Villa,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Villa Park ,Birmingham,England,Steve Tanner,41609
+352,12012008CheTot,Premier League,N/A,12/01/2008,15:00,Chelsea FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Alan Wiley,41777
+353,19012008TotSun,Premier League,N/A,19/01/2008,15:00,Tottenham Hotspurs,Sunderland AFC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,36070
+354,30012008EveTot,Premier League,N/A,30/01/2008,20:00,Everton FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Andre Marriner,35840
+355,02022008TotMan,Premier League,N/A,02/02/2008,15:00,Tottenham Hotspurs,Manchester United,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Clattenburg,36075
+356,09022008DerTot,Premier League,N/A,09/02/2008,15:00,Derby County,Tottenham Hotspurs,0,0,0,3,Null,Null,Null,Null,A,Pride Park Stadium ,Derby,England,Martin Atkinson,33058
+357,01032008BirTot,Premier League,N/A,01/03/2008,15:00,Birmingham City,Tottenham Hotspurs,1,0,4,1,Null,Null,Null,Null,H,St Andrew's Ground ,Birmingham,England,Lee Probert,26055
+358,09032008TotWes,Premier League,N/A,09/03/2008,15:00,Tottenham Hotspurs,West Ham United,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,36062
+359,16032008ManTot,Premier League,N/A,16/03/2008,16:00,Manchester City,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,City of Manchester Stadium ,Manchester,England,Mark Clattenburg,40180
+360,19032008TotChe,Premier League,N/A,19/03/2008,20:00,Tottenham Hotspurs,Chelsea FC,1,2,4,4,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Riley,36178
+361,22032008TotPor,Premier League,N/A,22/03/2008,12:45,Tottenham Hotspurs,Portsmouth FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35998
+362,30032008TotNew,Premier League,N/A,30/03/2008,15:00,Tottenham Hotspurs,Newcastle United,1,1,1,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Bennett,36067
+363,05042008BlaTot,Premier League,N/A,05/04/2008,15:00,Blackburn Rovers,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Ewood Park ,Blackburn,England,Peter Walton,24592
+364,12042008TotMid,Premier League,N/A,12/04/2008,15:00,Tottenham Hotspurs,Middlesbrough FC,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Halsey,36092
+365,19042008WigTot,Premier League,N/A,19/04/2008,15:00,Wigan Athletic,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,JJB Stadium ,Wigan,England,Lee Probert,18673
+366,26042008TotBol,Premier League,N/A,26/04/2008,15:00,Tottenham Hotspurs,Bolton Wanderers,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Clattenburg,36176
+367,03052008ReaTot,Premier League,N/A,03/05/2008,15:00,Reading FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Select Car Leasing Stadium ,Reading,England,Howard Webb,24125
+368,11052008TotLiv,Premier League,N/A,11/05/2008,15:00,Tottenham Hotspurs,Liverpool FC,0,0,0,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Uriah Rennie,36063
+369,05012008TotRea,FA Cup,  3. Round,05/01/2008,15:00,Tottenham Hotspurs,Reading FC,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Clattenburg,35243
+370,15012008ReaTot,FA Cup,  3. Round,15/01/2008,20:00,Reading FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Select Car Leasing Stadium ,Reading,England,Mike Riley,22130
+371,27012008ManTot,FA Cup,  4. Round,27/01/2008,14:00,Manchester United,Tottenham Hotspurs,1,1,3,1,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Peter Walton,75369
+372,26092007TotMid,League Cup,  3. Round,26/09/2007,20:00,Tottenham Hotspurs,Middlesbrough FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Keith Stroud,32280
+373,31102007TotBla,League Cup,  Round of 16,31/10/2007,20:00,Tottenham Hotspurs,Blackpool FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,32196
+374,18122007ManTot,League Cup,  Quarter-finals,18/12/2007,19:45,Manchester City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,City of Manchester Stadium ,Manchester,England,Steve Bennett,38564
+375,09012008ArsTot,League Cup,  Semi-finals,09/01/2008,19:45,Arsenal FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Mike Dean,53136
+376,22012008TotArs,League Cup,  Semi-finals,22/01/2008,20:00,Tottenham Hotspurs,Arsenal FC,2,0,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,35979
+377,24022008TotChe,League Cup,  Final,24/02/2008,15:00,Tottenham Hotspurs,Chelsea FC,0,1,1,1,2,1,Null,Null,H,Wembley Stadium ,London,England,Mark Halsey,87660
+378,18092008TotWis,Europa League,  1. Round,18/09/2008,20:10,Tottenham Hotspurs,Wisła Kraków,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lucílio Batista,35751
+379,02102008WisTot,Europa League,  1. Round,02/10/2008,14:40,Wisła Kraków,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Stadion Miejski im. Henryka Reymana ,Krakow,Poland,Alexandru Tudor,12900
+380,23102008UdiTot,Europa League,  Group D,23/10/2008,18:10,Udinese Calcio,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Stadio Friuli ,Udine,Italy,Dr. Felix Brych,22000
+381,06112008TotDin,Europa League,  Group D,06/11/2008,20:00,Tottenham Hotspurs,Dinamo Zagreb,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Fredy Fautrel,32788
+382,27112008NECTot,Europa League,  Group D,27/11/2008,18:00,NEC Nijmegen,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,De Goffert ,Nijmegen,Netherlands,César Muñiz Fernández,12500
+383,18122008TotSpa,Europa League,  Group D,18/12/2008,19:45,Tottenham Hotspurs,Spartak Moskva,0,2,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Pedro Proença,28906
+384,19022009ShaTot,Europa League,  3. Round,19/02/2009,18:45,Shakhtar Donetsk,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,RSC Olympiyskiy ,Donetsk,Ukraine,Thomas Einwaller,25000
+385,26022009TotSha,Europa League,  3. Round,26/02/2009,20:00,Tottenham Hotspurs,Shakhtar Donetsk,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Paolo Tagliavento,30595
+386,16082008MidTot,Premier League,N/A,16/08/2008,15:00,Middlesbrough FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Riverside ,Middlesbrough,England,Martin Atkinson,32623
+387,23082008TotSun,Premier League,N/A,23/08/2008,15:00,Tottenham Hotspurs,Sunderland AFC,0,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Dean,36064
+388,31082008CheTot,Premier League,N/A,31/08/2008,13:30,Chelsea FC,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Howard Webb,41790
+389,15092008TotAst,Premier League,N/A,15/09/2008,20:00,Tottenham Hotspurs,Aston Villa,0,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Bennett,36075
+390,21092008TotWig,Premier League,N/A,21/09/2008,15:00,Tottenham Hotspurs,Wigan Athletic,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Steve Tanner,35808
+391,28092008PorTot,Premier League,N/A,28/09/2008,13:30,Portsmouth FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Fratton Park ,Portsmouth,England,Mike Dean,20352
+392,05102008TotHul,Premier League,N/A,05/10/2008,15:00,Tottenham Hotspurs,Hull City,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Rob Styles,36062
+393,19102008StoTot,Premier League,N/A,19/10/2008,16:00,Stoke City,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Britannia Stadium ,Stoke-on-Trent,England,Lee Mason,27500
+394,26102008TotBol,Premier League,N/A,26/10/2008,15:00,Tottenham Hotspurs,Bolton Wanderers,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,35507
+395,29102008ArsTot,Premier League,N/A,29/10/2008,20:00,Arsenal FC,Tottenham Hotspurs,1,1,4,4,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Martin Atkinson,60043
+396,01112008TotLiv,Premier League,N/A,01/11/2008,17:30,Tottenham Hotspurs,Liverpool FC,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36183
+397,09112008ManTot,Premier League,N/A,09/11/2008,15:00,Manchester City,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,City of Manchester Stadium ,Manchester,England,Mike Dean,41893
+398,15112008FulTot,Premier League,N/A,15/11/2008,15:00,Fulham FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Craven Cottage ,London,England,Alan Wiley,25139
+399,23112008TotBla,Premier League,N/A,23/11/2008,13:30,Tottenham Hotspurs,Blackburn Rovers,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,35903
+400,30112008TotEve,Premier League,N/A,30/11/2008,15:00,Tottenham Hotspurs,Everton FC,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Steve Bennett,35742
+401,08122008WesTot,Premier League,N/A,08/12/2008,20:00,West Ham United,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Upton Park ,London,England,Chris Foy,34277
+402,13122008TotMan,Premier League,N/A,13/12/2008,17:30,Tottenham Hotspurs,Manchester United,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,35882
+403,21122008NewTot,Premier League,N/A,21/12/2008,15:00,Newcastle United,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Andre Marriner,47982
+404,26122008TotFul,Premier League,N/A,26/12/2008,13:00,Tottenham Hotspurs,Fulham FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Peter Walton,35869
+405,28122008WesTot,Premier League,N/A,28/12/2008,14:00,West Bromwich Albion,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,The Hawthorns ,WestBromwich,England,Steve Tanner,26344
+406,11012009WigTot,Premier League,N/A,11/01/2009,13:30,Wigan Athletic,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,JJB Stadium ,Wigan,England,Andre Marriner,17500
+407,18012009TotPor,Premier League,N/A,18/01/2009,16:00,Tottenham Hotspurs,Portsmouth FC,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Steve Bennett,36011
+408,27012009TotSto,Premier League,N/A,27/01/2009,20:00,Tottenham Hotspurs,Stoke City,3,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Riley,36072
+409,31012009BolTot,Premier League,N/A,31/01/2009,15:00,Bolton Wanderers,Tottenham Hotspurs,1,0,3,2,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Phil Dowd,21575
+410,08022009TotArs,Premier League,N/A,08/02/2009,13:30,Tottenham Hotspurs,Arsenal FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,36021
+411,23022009HulTot,Premier League,N/A,23/02/2009,20:00,Hull City,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Kingston Communications Stadium ,KingstonuponHull,England,Lee Probert,24742
+412,04032009TotMid,Premier League,N/A,04/03/2009,20:00,Tottenham Hotspurs,Middlesbrough FC,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,35761
+413,07032009SunTot,Premier League,N/A,07/03/2009,15:00,Sunderland AFC,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Stadium of Light ,Sunderland,England,Phil Dowd,37894
+414,15032009AstTot,Premier League,N/A,15/03/2009,16:00,Aston Villa,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Steve Bennett,41205
+415,21032009TotChe,Premier League,N/A,21/03/2009,15:30,Tottenham Hotspurs,Chelsea FC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,36034
+416,04042009BlaTot,Premier League,N/A,04/04/2009,12:45,Blackburn Rovers,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Ewood Park ,Blackburn,England,Peter Walton,21891
+417,11042009TotWes,Premier League,N/A,11/04/2009,15:00,Tottenham Hotspurs,West Ham United,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,35969
+418,19042009TotNew,Premier League,N/A,19/04/2009,13:30,Tottenham Hotspurs,Newcastle United,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,35850
+419,25042009ManTot,Premier League,N/A,25/04/2009,17:30,Manchester United,Tottenham Hotspurs,0,2,5,2,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Howard Webb,75458
+420,02052009TotWes,Premier League,N/A,02/05/2009,15:00,Tottenham Hotspurs,West Bromwich Albion,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Rob Styles,35836
+421,09052009EveTot,Premier League,N/A,09/05/2009,15:00,Everton FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Lee Mason,36646
+422,16052009TotMan,Premier League,N/A,16/05/2009,15:00,Tottenham Hotspurs,Manchester City,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,36000
+423,24052009LivTot,Premier League,N/A,24/05/2009,16:00,Liverpool FC,Tottenham Hotspurs,1,0,3,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Peter Walton,43937
+424,02012009TotWig,FA Cup,  3. Round,02/01/2009,20:00,Tottenham Hotspurs,Wigan Athletic,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,34040
+425,24012009ManTot,FA Cup,  4. Round,24/01/2009,17:15,Manchester United,Tottenham Hotspurs,2,1,2,1,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Peter Walton,75014
+426,24092008NewTot,League Cup,  3. Round,24/09/2008,19:45,Newcastle United,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Chris Foy,20577
+427,12112008TotLiv,League Cup,  Round of 16,12/11/2008,19:45,Tottenham Hotspurs,Liverpool FC,3,0,4,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Riley,33242
+428,03122008WatTot,League Cup,  Quarter-finals,03/12/2008,19:45,Watford FC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Vicarage Road ,Watford,England,Phil Dowd,16501
+429,06012009TotBur,League Cup,  Semi-finals,06/01/2009,19:45,Tottenham Hotspurs,Burnley FC,0,1,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,31377
+430,21012009BurTot,League Cup,  Semi-finals,21/01/2009,19:45,Burnley FC,Tottenham Hotspurs,1,0,3,0,3,2,Null,Null,H,Turf Moor ,Burnley,England,Mark Halsey,19533
+431,01032009TotMan,League Cup,  Final,01/03/2009,15:00,Tottenham Hotspurs,Manchester United,0,0,0,0,0,0,1,4,A,Wembley Stadium ,London,England,Chris Foy,88217
+432,16082009TotLiv,Premier League,N/A,16/08/2009,16:00,Tottenham Hotspurs,Liverpool FC,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35935
+433,19082009HulTot,Premier League,N/A,19/08/2009,19:45,Hull City,Tottenham Hotspurs,1,3,1,5,Null,Null,Null,Null,A,Kingston Communications Stadium ,KingstonuponHull,England,Chris Foy,24735
+434,23082009WesTot,Premier League,N/A,23/08/2009,13:30,West Ham United,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,Upton Park ,London,England,Mark Clattenburg,33095
+435,29082009TotBir,Premier League,N/A,29/08/2009,15:00,Tottenham Hotspurs,Birmingham City,0,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Walton,35318
+436,12092009TotMan,Premier League,N/A,12/09/2009,17:30,Tottenham Hotspurs,Manchester United,1,2,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andre Marriner,35785
+437,20092009CheTot,Premier League,N/A,20/09/2009,16:00,Chelsea FC,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Howard Webb,41623
+438,26092009TotBur,Premier League,N/A,26/09/2009,15:00,Tottenham Hotspurs,Burnley FC,2,0,5,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35462
+439,03102009BolTot,Premier League,N/A,03/10/2009,15:00,Bolton Wanderers,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Reebok Stadium ,Bolton,England,Mike Jones,21305
+440,17102009PorTot,Premier League,N/A,17/10/2009,15:00,Portsmouth FC,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Fratton Park ,Portsmouth,England,Phil Dowd,20821
+441,24102009TotSto,Premier League,N/A,24/10/2009,15:00,Tottenham Hotspurs,Stoke City,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Lee Probert,36031
+442,31102009ArsTot,Premier League,N/A,31/10/2009,12:45,Arsenal FC,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Mark Clattenburg,60103
+443,07112009TotSun,Premier League,N/A,07/11/2009,15:00,Tottenham Hotspurs,Sunderland AFC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kevin Friend,35955
+444,22112009TotWig,Premier League,N/A,22/11/2009,15:00,Tottenham Hotspurs,Wigan Athletic,1,0,9,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Walton,35650
+445,28112009AstTot,Premier League,N/A,28/11/2009,17:30,Aston Villa,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Villa Park ,Birmingham,England,Phil Dowd,39866
+446,06122009EveTot,Premier League,N/A,06/12/2009,16:00,Everton FC,Tottenham Hotspurs,0,0,2,2,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Andre Marriner,34003
+447,12122009TotWol,Premier League,N/A,12/12/2009,15:00,Tottenham Hotspurs,Wolverhampton Wanderers,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Stuart Attwell,36012
+448,16122009TotMan,Premier League,N/A,16/12/2009,20:00,Tottenham Hotspurs,Manchester City,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Alan Wiley,35891
+449,19122009BlaTot,Premier League,N/A,19/12/2009,15:00,Blackburn Rovers,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Ewood Park ,Blackburn,England,Peter Walton,26490
+450,26122009FulTot,Premier League,N/A,26/12/2009,13:00,Fulham FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Craven Cottage ,London,England,Steve Bennett,25679
+451,28122009TotWes,Premier League,N/A,28/12/2009,12:45,Tottenham Hotspurs,West Ham United,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,35994
+452,16012010TotHul,Premier League,N/A,16/01/2010,15:00,Tottenham Hotspurs,Hull City,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Martin Atkinson,35729
+453,20012010LivTot,Premier League,N/A,20/01/2010,20:00,Liverpool FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Howard Webb,42016
+454,26012010TotFul,Premier League,N/A,26/01/2010,20:00,Tottenham Hotspurs,Fulham FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35467
+455,30012010BirTot,Premier League,N/A,30/01/2010,15:00,Birmingham City,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,St Andrew's Ground ,Birmingham,England,Stuart Attwell,27238
+456,06022010TotAst,Premier League,N/A,06/02/2010,17:30,Tottenham Hotspurs,Aston Villa,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Chris Foy,35899
+457,10022010WolTot,Premier League,N/A,10/02/2010,19:45,Wolverhampton Wanderers,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Molineux Stadium ,Wolverhampton,England,Mark Clattenburg,27992
+458,21022010WigTot,Premier League,N/A,21/02/2010,16:15,Wigan Athletic,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,DW Stadium ,Wigan,England,Alan Wiley,16165
+459,28022010TotEve,Premier League,N/A,28/02/2010,13:00,Tottenham Hotspurs,Everton FC,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Steve Bennett,35912
+460,13032010TotBla,Premier League,N/A,13/03/2010,12:45,Tottenham Hotspurs,Blackburn Rovers,1,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,35474
+461,20032010StoTot,Premier League,N/A,20/03/2010,15:00,Stoke City,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,Britannia Stadium ,Stoke-on-Trent,England,Mike Dean,27575
+462,27032010TotPor,Premier League,N/A,27/03/2010,15:00,Tottenham Hotspurs,Portsmouth FC,2,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kevin Friend,35870
+463,03042010SunTot,Premier League,N/A,03/04/2010,15:00,Sunderland AFC,Tottenham Hotspurs,2,0,3,1,Null,Null,Null,Null,H,Stadium of Light ,Sunderland,England,Lee Mason,43184
+464,14042010TotArs,Premier League,N/A,14/04/2010,20:00,Tottenham Hotspurs,Arsenal FC,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36041
+465,17042010TotChe,Premier League,N/A,17/04/2010,17:30,Tottenham Hotspurs,Chelsea FC,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35814
+466,24042010ManTot,Premier League,N/A,24/04/2010,12:45,Manchester United,Tottenham Hotspurs,0,0,3,1,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Andre Marriner,75268
+467,01052010TotBol,Premier League,N/A,01/05/2010,15:00,Tottenham Hotspurs,Bolton Wanderers,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,35852
+468,05052010ManTot,Premier League,N/A,05/05/2010,20:00,Manchester City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,City of Manchester Stadium ,Manchester,England,Steve Bennett,47370
+469,09052010BurTot,Premier League,N/A,09/05/2010,16:00,Burnley FC,Tottenham Hotspurs,1,2,4,2,Null,Null,Null,Null,H,Turf Moor ,Burnley,England,Mike Dean,21161
+470,02012010TotPet,FA Cup,  3. Round,02/01/2010,15:00,Tottenham Hotspurs,Peterborough United,1,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,35862
+471,23012010TotLee,FA Cup,  4. Round,23/01/2010,17:15,Tottenham Hotspurs,Leeds United,1,0,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Alan Wiley,35750
+472,03022010LeeTot,FA Cup,  4. Round,03/02/2010,19:45,Leeds United,Tottenham Hotspurs,1,1,1,3,Null,Null,Null,Null,A,Elland Road ,Leeds,England,Andre Marriner,37704
+473,14022010BolTot,FA Cup,  Round of 16,14/02/2010,13:30,Bolton Wanderers,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Reebok Stadium ,Bolton,England,Phil Dowd,13596
+474,24022010TotBol,FA Cup,  Round of 16,24/02/2010,20:00,Tottenham Hotspurs,Bolton Wanderers,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Peter Walton,31436
+475,06032010FulTot,FA Cup,  Quarter-finals,06/03/2010,17:20,Fulham FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Craven Cottage ,London,England,Mark Clattenburg,24533
+476,24032010TotFul,FA Cup,  Quarter-finals,24/03/2010,19:45,Tottenham Hotspurs,Fulham FC,0,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,35432
+477,11042010TotPor,FA Cup,  Semi-finals,11/04/2010,16:00,Tottenham Hotspurs,Portsmouth FC,0,0,0,0,0,2,Null,Null,A,Wembley Stadium ,London,England,Alan Wiley,84602
+478,26082009DonTot,League Cup,  2. Round,26/08/2009,19:45,Doncaster Rovers,Tottenham Hotspurs,0,3,1,5,Null,Null,Null,Null,A,Keepmoat Stadium ,Doncaster,England,Russell Booth,12923
+479,23092009PreTot,League Cup,  3. Round,23/09/2009,19:45,Preston North End,Tottenham Hotspurs,0,2,1,5,Null,Null,Null,Null,A,Deepdale ,Preston,England,Phil Dowd,16533
+480,27102009TotEve,League Cup,  Round of 16,27/10/2009,20:00,Tottenham Hotspurs,Everton FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,35843
+481,01122009ManTot,League Cup,  Quarter-finals,01/12/2009,20:00,Manchester United,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Mark Clattenburg,57212
+482,14092010WerTot,Champions League,  Group A,14/09/2010,19:45,Werder Bremen,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,Weser-Stadion ,Bremen,Germany,Massimo Busacca,30344
+483,29092010TotFC ,Champions League,  Group A,29/09/2010,19:45,Tottenham Hotspurs,FC Twente,0,0,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Terje Hauge,32518
+484,20102010IntTot,Champions League,  Group A,20/10/2010,19:45,Inter,Tottenham Hotspurs,4,0,4,3,Null,Null,Null,Null,H,Giuseppe Meazza ,Milano,Italy,Damir Skomina,49551
+485,02112010TotInt,Champions League,  Group A,02/11/2010,19:45,Tottenham Hotspurs,Inter,1,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Viktor Kassai,34103
+486,24112010TotWer,Champions League,  Group A,24/11/2010,19:45,Tottenham Hotspurs,Werder Bremen,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Olegario Benquerença,33546
+487,07122010FC Tot,Champions League,  Group A,07/12/2010,19:45,FC Twente,Tottenham Hotspurs,1,1,3,3,Null,Null,Null,Null,D,De Grolsch Veste ,Enschede,Netherlands,Carlos Velasco Carballo,24000
+488,15022011AC Tot,Champions League,  Round of 16,15/02/2011,19:45,AC Milan,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Giuseppe Meazza ,Milano,Italy,Stéphane Lannoy,75652
+489,09032011TotAC ,Champions League,  Round of 16,09/03/2011,19:45,Tottenham Hotspurs,AC Milan,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Frank De Bleeckere,34320
+490,05042011ReaTot,Champions League,  Quarter-finals,05/04/2011,19:45,Real Madrid,Tottenham Hotspurs,1,0,4,0,Null,Null,Null,Null,H,Santiago Bernabéu ,Madrid,Spain,Dr. Felix Brych,71657
+491,13042011TotRea,Champions League,  Quarter-finals,13/04/2011,19:45,Tottenham Hotspurs,Real Madrid,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Nicola Rizzoli,34311
+492,17082010BSCTot,Champions League, Qual.  Play-offs,17/08/2010,19:45,BSC Young Boys,Tottenham Hotspurs,3,1,3,2,Null,Null,Null,Null,H,Stade de Suisse ,Bern,Switzerland,Frank De Bleeckere,30166
+493,25082010TotBSC,Champions League, Qual.  Play-offs,25/08/2010,19:45,Tottenham Hotspurs,BSC Young Boys,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Laurent Duhamel,34709
+494,14082010TotMan,Premier League,N/A,14/08/2010,12:45,Tottenham Hotspurs,Manchester City,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Andre Marriner,35928
+495,21082010StoTot,Premier League,N/A,21/08/2010,15:00,Stoke City,Tottenham Hotspurs,1,2,1,2,Null,Null,Null,Null,A,Britannia Stadium ,Stoke-on-Trent,England,Chris Foy,27243
+496,28082010TotWig,Premier League,N/A,28/08/2010,15:00,Tottenham Hotspurs,Wigan Athletic,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Phil Dowd,35101
+497,11092010WesTot,Premier League,N/A,11/09/2010,15:00,West Bromwich Albion,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Howard Webb,23642
+498,18092010TotWol,Premier League,N/A,18/09/2010,15:00,Tottenham Hotspurs,Wolverhampton Wanderers,0,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35940
+499,25092010WesTot,Premier League,N/A,25/09/2010,15:00,West Ham United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Upton Park ,London,England,Martin Atkinson,34190
+500,02102010TotAst,Premier League,N/A,02/10/2010,15:00,Tottenham Hotspurs,Aston Villa,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,35871
+501,16102010FulTot,Premier League,N/A,16/10/2010,15:00,Fulham FC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Craven Cottage ,London,England,Mike Dean,25615
+502,23102010TotEve,Premier League,N/A,23/10/2010,12:45,Tottenham Hotspurs,Everton FC,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Jones,35967
+503,30102010ManTot,Premier League,N/A,30/10/2010,17:30,Manchester United,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Mark Clattenburg,75223
+504,06112010BolTot,Premier League,N/A,06/11/2010,12:45,Bolton Wanderers,Tottenham Hotspurs,1,0,4,2,Null,Null,Null,Null,H,Reebok Stadium ,Bolton,England,Chris Foy,20255
+505,09112010TotSun,Premier League,N/A,09/11/2010,20:00,Tottenham Hotspurs,Sunderland AFC,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Howard Webb,35843
+506,13112010TotBla,Premier League,N/A,13/11/2010,15:00,Tottenham Hotspurs,Blackburn Rovers,2,0,4,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,35700
+507,20112010ArsTot,Premier League,N/A,20/11/2010,12:45,Arsenal FC,Tottenham Hotspurs,2,0,2,3,Null,Null,Null,Null,A,Emirates Stadium ,London,England,Phil Dowd,60102
+508,28112010TotLiv,Premier League,N/A,28/11/2010,16:00,Tottenham Hotspurs,Liverpool FC,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,35962
+509,04122010BirTot,Premier League,N/A,04/12/2010,15:00,Birmingham City,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,St Andrew's Ground ,Birmingham,England,Kevin Friend,25770
+510,12122010TotChe,Premier League,N/A,12/12/2010,16:00,Tottenham Hotspurs,Chelsea FC,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,35787
+511,26122010AstTot,Premier League,N/A,26/12/2010,17:30,Aston Villa,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Martin Atkinson,39411
+512,28122010TotNew,Premier League,N/A,28/12/2010,15:00,Tottenham Hotspurs,Newcastle United,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,35927
+513,01012011TotFul,Premier League,N/A,01/01/2011,15:00,Tottenham Hotspurs,Fulham FC,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35603
+514,05012011EveTot,Premier League,N/A,05/01/2011,20:00,Everton FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Goodison Park ,Liverpool,England,Lee Probert,34124
+515,16012011TotMan,Premier League,N/A,16/01/2011,16:10,Tottenham Hotspurs,Manchester United,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,35828
+516,22012011NewTot,Premier League,N/A,22/01/2011,15:00,Newcastle United,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,St James' Park ,Newcastle,England,Mark Halsey,51010
+517,02022011BlaTot,Premier League,N/A,02/02/2011,20:00,Blackburn Rovers,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Ewood Park ,Blackburn,England,Andre Marriner,23253
+518,05022011TotBol,Premier League,N/A,05/02/2011,15:00,Tottenham Hotspurs,Bolton Wanderers,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36197
+519,12022011SunTot,Premier League,N/A,12/02/2011,17:30,Sunderland AFC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,Mike Jones,40986
+520,22022011BlaTot,Premier League,N/A,22/02/2011,20:00,Blackpool FC,Tottenham Hotspurs,2,0,3,1,Null,Null,Null,Null,H,Bloomfield Road ,Blackpool,England,Chris Foy,16069
+521,06032011WolTot,Premier League,N/A,06/03/2011,16:00,Wolverhampton Wanderers,Tottenham Hotspurs,2,2,3,3,Null,Null,Null,Null,D,Molineux Stadium ,Wolverhampton,England,Mark Halsey,28669
+522,19032011TotWes,Premier League,N/A,19/03/2011,12:45,Tottenham Hotspurs,West Ham United,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,36010
+523,02042011WigTot,Premier League,N/A,02/04/2011,15:00,Wigan Athletic,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,DW Stadium ,Wigan,England,Andre Marriner,18578
+524,09042011TotSto,Premier League,N/A,09/04/2011,15:00,Tottenham Hotspurs,Stoke City,3,2,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kevin Friend,32702
+525,20042011TotArs,Premier League,N/A,20/04/2011,19:45,Tottenham Hotspurs,Arsenal FC,2,3,3,3,Null,Null,Null,Null,D,White Hart Lane ,London,England,Martin Atkinson,36138
+526,23042011TotWes,Premier League,N/A,23/04/2011,15:00,Tottenham Hotspurs,West Bromwich Albion,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Stuart Attwell,36160
+527,30042011CheTot,Premier League,N/A,30/04/2011,17:30,Chelsea FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Andre Marriner,41681
+528,07052011TotBla,Premier League,N/A,07/05/2011,17:30,Tottenham Hotspurs,Blackpool FC,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Lee Probert,35585
+529,10052011ManTot,Premier League,N/A,10/05/2011,19:45,Manchester City,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,City of Manchester Stadium ,Manchester,England,Mike Dean,47029
+530,15052011LivTot,Premier League,N/A,15/05/2011,16:00,Liverpool FC,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Anfield ,Liverpool,England,Howard Webb,44893
+531,22052011TotBir,Premier League,N/A,22/05/2011,16:00,Tottenham Hotspurs,Birmingham City,0,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36119
+532,09012011TotCha,FA Cup,  3. Round,09/01/2011,13:30,Tottenham Hotspurs,Charlton Athletic,0,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,35698
+533,30012011FulTot,FA Cup,  4. Round,30/01/2011,16:30,Fulham FC,Tottenham Hotspurs,4,0,4,0,Null,Null,Null,Null,H,Craven Cottage ,London,England,Phil Dowd,21829
+534,21092010TotArs,League Cup,  3. Round,21/09/2010,19:45,Tottenham Hotspurs,Arsenal FC,0,1,1,1,1,4,Null,Null,A,White Hart Lane ,London,England,Lee Probert,35883
+535,15092011PAOTot,Europa League,  Group A,15/09/2011,18:00,PAOK Saloniki,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stadio Toumbas ,Thessaloniki,Greece,Milorad Mažić,24285
+536,29092011TotSha,Europa League,  Group A,29/09/2011,20:05,Tottenham Hotspurs,Shamrock Rovers,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Gediminas Mažeika,33500
+537,20102011TotRub,Europa League,  Group A,20/10/2011,20:05,Tottenham Hotspurs,Rubin Kazan,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jorge de Sousa,24058
+538,03112011RubTot,Europa League,  Group A,03/11/2011,17:00,Rubin Kazan,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Centralniy ,Kazan,Russia,Florian Meyer,21250
+539,30112011TotPAO,Europa League,  Group A,30/11/2011,20:05,Tottenham Hotspurs,PAOK Saloniki,1,2,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Bas Nijhuis,26229
+540,15122011ShaTot,Europa League,  Group A,15/12/2011,18:00,Shamrock Rovers,Tottenham Hotspurs,0,3,0,4,Null,Null,Null,Null,A,Tallaght Stadium ,Dublin,Ireland,Stéphan Studer,7545
+541,18082011HeaTot,Europa League, Qual.  Play-offs,18/08/2011,19:45,Heart of Midlothian,Tottenham Hotspurs,0,3,0,5,Null,Null,Null,Null,A,Tynecastle ,Edinburgh,Scotland,Paolo Tagliavento,16279
+542,25082011TotHea,Europa League, Qual.  Play-offs,25/08/2011,20:00,Tottenham Hotspurs,Heart of Midlothian,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Anastasios Kakos,24053
+543,22082011ManTot,Premier League,N/A,22/08/2011,20:00,Manchester United,Tottenham Hotspurs,0,0,3,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Lee Probert,75498
+544,28082011TotMan,Premier League,N/A,28/08/2011,13:30,Tottenham Hotspurs,Manchester City,0,2,1,5,Null,Null,Null,Null,A,White Hart Lane ,London,England,Phil Dowd,36150
+545,10092011WolTot,Premier League,N/A,10/09/2011,15:00,Wolverhampton Wanderers,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Molineux Stadium ,Wolverhampton,England,Peter Walton,25274
+546,18092011TotLiv,Premier League,N/A,18/09/2011,13:30,Tottenham Hotspurs,Liverpool FC,1,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,36129
+547,24092011WigTot,Premier League,N/A,24/09/2011,15:00,Wigan Athletic,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,DW Stadium ,Wigan,England,Jonathan Moss,18788
+548,02102011TotArs,Premier League,N/A,02/10/2011,16:00,Tottenham Hotspurs,Arsenal FC,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,36274
+549,16102011NewTot,Premier League,N/A,16/10/2011,16:00,Newcastle United,Tottenham Hotspurs,0,1,2,2,Null,Null,Null,Null,D,St James' Park ,Newcastle,England,Lee Probert,46420
+550,23102011BlaTot,Premier League,N/A,23/10/2011,15:00,Blackburn Rovers,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Ewood Park ,Blackburn,England,Stuart Attwell,22786
+551,30102011TotQue,Premier League,N/A,30/10/2011,16:00,Tottenham Hotspurs,Queens Park Rangers,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,36147
+552,06112011FulTot,Premier League,N/A,06/11/2011,16:00,Fulham FC,Tottenham Hotspurs,0,2,1,3,Null,Null,Null,Null,A,Craven Cottage ,London,England,Peter Walton,25698
+553,21112011TotAst,Premier League,N/A,21/11/2011,20:00,Tottenham Hotspurs,Aston Villa,2,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,35818
+554,26112011WesTot,Premier League,N/A,26/11/2011,15:00,West Bromwich Albion,Tottenham Hotspurs,1,1,1,3,Null,Null,Null,Null,A,The Hawthorns ,WestBromwich,England,Lee Probert,24801
+555,03122011TotBol,Premier League,N/A,03/12/2011,15:00,Tottenham Hotspurs,Bolton Wanderers,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Stuart Attwell,35896
+556,11122011StoTot,Premier League,N/A,11/12/2011,16:00,Stoke City,Tottenham Hotspurs,2,0,2,1,Null,Null,Null,Null,H,Britannia Stadium ,Stoke-on-Trent,England,Chris Foy,27529
+557,18122011TotSun,Premier League,N/A,18/12/2011,15:00,Tottenham Hotspurs,Sunderland AFC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,36021
+558,22122011TotChe,Premier League,N/A,22/12/2011,20:00,Tottenham Hotspurs,Chelsea FC,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Howard Webb,36141
+559,27122011NorTot,Premier League,N/A,27/12/2011,19:30,Norwich City,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Carrow Road ,Norwich,England,Michael Oliver,26807
+560,31122011SwaTot,Premier League,N/A,31/12/2011,15:00,Swansea City,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Liberty Stadium ,Swansea,Wales,Phil Dowd,20393
+561,03012012TotWes,Premier League,N/A,03/01/2012,19:45,Tottenham Hotspurs,West Bromwich Albion,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Halsey,36062
+562,11012012TotEve,Premier League,N/A,11/01/2012,19:45,Tottenham Hotspurs,Everton FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,36132
+563,14012012TotWol,Premier League,N/A,14/01/2012,15:00,Tottenham Hotspurs,Wolverhampton Wanderers,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Jones,36194
+564,22012012ManTot,Premier League,N/A,22/01/2012,13:30,Manchester City,Tottenham Hotspurs,0,0,3,2,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Howard Webb,47422
+565,31012012TotWig,Premier League,N/A,31/01/2012,19:45,Tottenham Hotspurs,Wigan Athletic,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Probert,35801
+566,06022012LivTot,Premier League,N/A,06/02/2012,20:00,Liverpool FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Michael Oliver,44461
+567,11022012TotNew,Premier League,N/A,11/02/2012,17:30,Tottenham Hotspurs,Newcastle United,4,0,5,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,36176
+568,26022012ArsTot,Premier League,N/A,26/02/2012,13:30,Arsenal FC,Tottenham Hotspurs,2,2,5,2,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Mike Dean,60106
+569,04032012TotMan,Premier League,N/A,04/03/2012,16:10,Tottenham Hotspurs,Manchester United,0,1,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Martin Atkinson,36034
+570,10032012EveTot,Premier League,N/A,10/03/2012,17:30,Everton FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Goodison Park ,Liverpool,England,Mark Halsey,34992
+571,21032012TotSto,Premier League,N/A,21/03/2012,19:45,Tottenham Hotspurs,Stoke City,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Jones,35172
+572,24032012CheTot,Premier League,N/A,24/03/2012,12:45,Chelsea FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Martin Atkinson,41830
+573,01042012TotSwa,Premier League,N/A,01/04/2012,16:00,Tottenham Hotspurs,Swansea City,1,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,36174
+574,07042012SunTot,Premier League,N/A,07/04/2012,12:45,Sunderland AFC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stadium of Light ,Sunderland,England,Chris Foy,39335
+575,09042012TotNor,Premier League,N/A,09/04/2012,15:00,Tottenham Hotspurs,Norwich City,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Michael Oliver,36126
+576,21042012QueTot,Premier League,N/A,21/04/2012,17:30,Queens Park Rangers,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Loftus Road ,London,England,Mark Clattenburg,18021
+577,29042012TotBla,Premier League,N/A,29/04/2012,16:00,Tottenham Hotspurs,Blackburn Rovers,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35798
+578,02052012BolTot,Premier League,N/A,02/05/2012,20:00,Bolton Wanderers,Tottenham Hotspurs,0,1,1,4,Null,Null,Null,Null,A,Reebok Stadium ,Bolton,England,Mike Dean,22349
+579,06052012AstTot,Premier League,N/A,06/05/2012,14:00,Aston Villa,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Villa Park ,Birmingham,England,Lee Probert,36008
+580,13052012TotFul,Premier League,N/A,13/05/2012,15:00,Tottenham Hotspurs,Fulham FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36256
+581,07012012TotChe,FA Cup,  3. Round,07/01/2012,15:00,Tottenham Hotspurs,Cheltenham Town,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,35672
+582,27012012WatTot,FA Cup,  4. Round,27/01/2012,19:45,Watford FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Vicarage Road ,Watford,England,Chris Foy,15384
+583,19022012SteTot,FA Cup,  Round of 16,19/02/2012,14:00,Stevenage FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Lamex Stadium ,Stevenage,England,Phil Dowd,6332
+584,07032012TotSte,FA Cup,  Round of 16,07/03/2012,19:30,Tottenham Hotspurs,Stevenage FC,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,35757
+585,27032012TotBol,FA Cup,  Quarter-finals,27/03/2012,19:45,Tottenham Hotspurs,Bolton Wanderers,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,David Webb,30718
+586,15042012TotChe,FA Cup,  Semi-finals,15/04/2012,18:00,Tottenham Hotspurs,Chelsea FC,0,1,1,5,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Martin Atkinson,85731
+587,20092011StoTot,League Cup,  3. Round,20/09/2011,19:45,Stoke City,Tottenham Hotspurs,0,0,0,0,0,0,7,6,H,Vale Park ,Stoke-on-Trent,England,Lee Probert,15023
+588,20092012TotLaz,Europa League,  Group J,20/09/2012,20:05,Tottenham Hotspurs,Lazio Roma,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Ovidiu Haţegan,25030
+589,04102012PanTot,Europa League,  Group J,04/10/2012,18:00,Panathinaikos,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Spyros Louis ,Athen,Greece,Florian Meyer,23000
+590,25102012NK Tot,Europa League,  Group J,25/10/2012,18:00,NK Maribor,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Ljudski vrt ,Maribor,Slovenia,Sergey Karasev,12049
+591,08112012TotNK ,Europa League,  Group J,08/11/2012,20:05,Tottenham Hotspurs,NK Maribor,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Antti Munukka,27089
+592,22112012LazTot,Europa League,  Group J,22/11/2012,18:00,Lazio Roma,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Olimpico ,Roma,Italy,Fernando Teixeira Vitienes,20000
+593,06122012TotPan,Europa League,  Group J,06/12/2012,20:05,Tottenham Hotspurs,Panathinaikos,1,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Paweł Gil,32554
+594,14022013TotOly,Europa League,  2. Round,14/02/2013,20:05,Tottenham Hotspurs,Olympique Lyon,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Pedro Proença,31762
+595,21022013OlyTot,Europa League,  2. Round,21/02/2013,18:00,Olympique Lyon,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Stade de Gerland ,Lyon,France,Wolfgang Stark,38761
+596,07032013TotInt,Europa League,  Round of 16,07/03/2013,20:05,Tottenham Hotspurs,Inter,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Antonio Mateu Lahoz,34353
+597,14032013IntTot,Europa League,  Round of 16,14/03/2013,18:00,Inter,Tottenham Hotspurs,1,0,3,0,4,1,Null,Null,H,Giuseppe Meazza ,Milano,Italy,Ivan Bebek,18241
+598,04042013TotFC ,Europa League,  Quarter-finals,04/04/2013,20:05,Tottenham Hotspurs,FC Basel,1,2,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Milorad Mažić,32136
+599,11042013FC Tot,Europa League,  Quarter-finals,11/04/2013,20:05,FC Basel,Tottenham Hotspurs,1,1,2,2,2,2,4,1,H,St. Jakob-Park ,Basel,Switzerland,Olegario Benquerença,36500
+600,18082012NewTot,Premier League,N/A,18/08/2012,17:30,Newcastle United,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Sports Direct Arena ,Newcastle,England,Martin Atkinson,52385
+601,25082012TotWes,Premier League,N/A,25/08/2012,15:00,Tottenham Hotspurs,West Bromwich Albion,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,36166
+602,01092012TotNor,Premier League,N/A,01/09/2012,15:00,Tottenham Hotspurs,Norwich City,0,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mark Halsey,36142
+603,16092012ReaTot,Premier League,N/A,16/09/2012,16:00,Reading FC,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,Select Car Leasing Stadium ,Reading,England,Howard Webb,24160
+604,23092012TotQue,Premier League,N/A,23/09/2012,16:00,Tottenham Hotspurs,Queens Park Rangers,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36052
+605,29092012ManTot,Premier League,N/A,29/09/2012,17:30,Manchester United,Tottenham Hotspurs,0,2,2,3,Null,Null,Null,Null,A,Old Trafford ,Manchester,England,Chris Foy,75566
+606,07102012TotAst,Premier League,N/A,07/10/2012,15:00,Tottenham Hotspurs,Aston Villa,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neil Swarbrick,35802
+607,20102012TotChe,Premier League,N/A,20/10/2012,12:45,Tottenham Hotspurs,Chelsea FC,0,1,2,4,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Dean,36060
+608,28102012SouTot,Premier League,N/A,28/10/2012,15:00,Southampton FC,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Saint Mary's ,Southampton,England,Lee Mason,31944
+609,03112012TotWig,Premier League,N/A,03/11/2012,15:00,Tottenham Hotspurs,Wigan Athletic,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Martin Atkinson,35534
+610,11112012ManTot,Premier League,N/A,11/11/2012,13:30,Manchester City,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Michael Oliver,47208
+611,17112012ArsTot,Premier League,N/A,17/11/2012,12:45,Arsenal FC,Tottenham Hotspurs,3,1,5,2,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Howard Webb,60111
+612,25112012TotWes,Premier League,N/A,25/11/2012,16:00,Tottenham Hotspurs,West Ham United,1,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,36043
+613,28112012TotLiv,Premier League,N/A,28/11/2012,19:45,Tottenham Hotspurs,Liverpool FC,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36162
+614,01122012FulTot,Premier League,N/A,01/12/2012,15:00,Fulham FC,Tottenham Hotspurs,0,0,0,3,Null,Null,Null,Null,A,Craven Cottage ,London,England,Chris Foy,25426
+615,09122012EveTot,Premier League,N/A,09/12/2012,15:00,Everton FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Goodison Park ,Liverpool,England,Kevin Friend,36494
+616,16122012TotSwa,Premier League,N/A,16/12/2012,13:30,Tottenham Hotspurs,Swansea City,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35783
+617,22122012TotSto,Premier League,N/A,22/12/2012,15:00,Tottenham Hotspurs,Stoke City,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Lee Mason,35702
+618,26122012AstTot,Premier League,N/A,26/12/2012,17:30,Aston Villa,Tottenham Hotspurs,0,0,0,4,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Mark Clattenburg,36863
+619,29122012SunTot,Premier League,N/A,29/12/2012,12:45,Sunderland AFC,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,Martin Atkinson,41168
+620,01012013TotRea,Premier League,N/A,01/01/2013,15:00,Tottenham Hotspurs,Reading FC,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Howard Webb,36180
+621,12012013QueTot,Premier League,N/A,12/01/2013,12:45,Queens Park Rangers,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Loftus Road ,London,England,Lee Probert,18018
+622,20012013TotMan,Premier League,N/A,20/01/2013,16:00,Tottenham Hotspurs,Manchester United,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Chris Foy,35956
+623,30012013NorTot,Premier League,N/A,30/01/2013,19:45,Norwich City,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Carrow Road ,Norwich,England,Neil Swarbrick,26818
+624,03022013WesTot,Premier League,N/A,03/02/2013,13:30,West Bromwich Albion,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,The Hawthorns ,WestBromwich,England,Mark Clattenburg,24978
+625,09022013TotNew,Premier League,N/A,09/02/2013,12:45,Tottenham Hotspurs,Newcastle United,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,36244
+626,25022013WesTot,Premier League,N/A,25/02/2013,20:00,West Ham United,Tottenham Hotspurs,1,1,2,3,Null,Null,Null,Null,A,Upton Park ,London,England,Howard Webb,35005
+627,03032013TotArs,Premier League,N/A,03/03/2013,16:00,Tottenham Hotspurs,Arsenal FC,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36170
+628,10032013LivTot,Premier League,N/A,10/03/2013,16:00,Liverpool FC,Tottenham Hotspurs,1,1,3,2,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Michael Oliver,44752
+629,17032013TotFul,Premier League,N/A,17/03/2013,15:00,Tottenham Hotspurs,Fulham FC,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Jones,36004
+630,30032013SwaTot,Premier League,N/A,30/03/2013,15:00,Swansea City,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Anthony Taylor,20604
+631,07042013TotEve,Premier League,N/A,07/04/2013,14:05,Tottenham Hotspurs,Everton FC,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Andre Marriner,36192
+632,21042013TotMan,Premier League,N/A,21/04/2013,13:30,Tottenham Hotspurs,Manchester City,0,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,36121
+633,27042013WigTot,Premier League,N/A,27/04/2013,15:00,Wigan Athletic,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,DW Stadium ,Wigan,England,Martin Atkinson,22326
+634,04052013TotSou,Premier League,N/A,04/05/2013,15:30,Tottenham Hotspurs,Southampton FC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,36190
+635,08052013CheTot,Premier League,N/A,08/05/2013,19:45,Chelsea FC,Tottenham Hotspurs,2,1,2,2,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Mike Dean,41581
+636,12052013StoTot,Premier League,N/A,12/05/2013,13:30,Stoke City,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Britannia Stadium ,Stoke-on-Trent,England,Kevin Friend,27531
+637,19052013TotSun,Premier League,N/A,19/05/2013,16:00,Tottenham Hotspurs,Sunderland AFC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,36063
+638,05012013TotCov,FA Cup,  3. Round,05/01/2013,15:00,Tottenham Hotspurs,Coventry City,3,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Naylor,35766
+639,27012013LeeTot,FA Cup,  4. Round,27/01/2013,14:00,Leeds United,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Elland Road ,Leeds,England,Kevin Friend,29943
+640,26092012CarTot,League Cup,  3. Round,26/09/2012,19:45,Carlisle United,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,Brunton Park ,Carlisle,England,Kevin Friend,12625
+641,31102012NorTot,League Cup,  Round of 16,31/10/2012,19:45,Norwich City,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Carrow Road ,Norwich,England,Jonathan Moss,16465
+642,19092013TotTro,Europa League,  Group K,19/09/2013,20:05,Tottenham Hotspurs,Tromsø IL,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Libor Kovařik,26581
+643,03102013AnzTot,Europa League,  Group K,03/10/2013,17:00,Anzhi Makhachkala,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,Saturn ,Ramenskoe,Russia,Bülent Yildirim,5662
+644,24102013FC Tot,Europa League,  Group K,24/10/2013,18:00,FC Sheriff,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Sheriff Stadium ,Tiraspol,Moldova,Liran Liany,11725
+645,07112013TotFC ,Europa League,  Group K,07/11/2013,20:05,Tottenham Hotspurs,FC Sheriff,0,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kenn Hansen,32281
+646,28112013TroTot,Europa League,  Group K,28/11/2013,18:00,Tromsø IL,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Alfheim Stadion ,Tromsø,Norway,Evgen Aranovskiy,5868
+647,12122013TotAnz,Europa League,  Group K,12/12/2013,20:05,Tottenham Hotspurs,Anzhi Makhachkala,2,1,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Stefan Johannesson,23101
+648,20022014DniTot,Europa League,  Round of 32,20/02/2014,18:00,Dnipro Dnipropetrovsk,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Dnipro ,Dnipropetrovsk,Ukraine,Antonio Mateu Lahoz,22356
+649,27022014TotDni,Europa League,  Round of 32,27/02/2014,20:05,Tottenham Hotspurs,Dnipro Dnipropetrovsk,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Antony Gautier,36284
+650,13032014TotSL ,Europa League,  Round of 16,13/03/2014,20:05,Tottenham Hotspurs,SL Benfica,0,1,1,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jonas Eriksson,34283
+651,20032014SL Tot,Europa League,  Round of 16,20/03/2014,18:00,SL Benfica,Tottenham Hotspurs,1,0,2,2,Null,Null,Null,Null,D,Estádio da Luz ,Lisboa,Portugal,Damir Skomina,40000
+652,22082013DinTot,Europa League, Qual.  Play-offs,22/08/2013,17:00,Dinamo Tbilisi,Tottenham Hotspurs,0,2,0,5,Null,Null,Null,Null,A,Mikheil Meshki ,Tbilisi,Georgia,Pol van Boekel,20500
+653,29082013TotDin,Europa League, Qual.  Play-offs,29/08/2013,20:05,Tottenham Hotspurs,Dinamo Tbilisi,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Luca Banti,35000
+654,18082013CryTot,Premier League,N/A,18/08/2013,13:30,Crystal Palace,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Selhurst Park ,London,England,Mark Clattenburg,23285
+655,25082013TotSwa,Premier League,N/A,25/08/2013,16:00,Tottenham Hotspurs,Swansea City,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neil Swarbrick,36005
+656,01092013ArsTot,Premier League,N/A,01/09/2013,16:00,Arsenal FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Michael Oliver,60071
+657,14092013TotNor,Premier League,N/A,14/09/2013,15:00,Tottenham Hotspurs,Norwich City,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,35952
+658,22092013CarTot,Premier League,N/A,22/09/2013,16:00,Cardiff City,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Cardiff City Stadium ,Cardiff,Wales,Mark Clattenburg,27815
+659,28092013TotChe,Premier League,N/A,28/09/2013,12:45,Tottenham Hotspurs,Chelsea FC,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,35857
+660,06102013TotWes,Premier League,N/A,06/10/2013,16:00,Tottenham Hotspurs,West Ham United,0,0,0,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Lee Probert,35977
+661,20102013AstTot,Premier League,N/A,20/10/2013,16:00,Aston Villa,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Phil Dowd,35391
+662,27102013TotHul,Premier League,N/A,27/10/2013,16:00,Tottenham Hotspurs,Hull City,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,36080
+663,03112013EveTot,Premier League,N/A,03/11/2013,13:30,Everton FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Kevin Friend,38378
+664,10112013TotNew,Premier League,N/A,10/11/2013,12:00,Tottenham Hotspurs,Newcastle United,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Chris Foy,36042
+665,24112013ManTot,Premier League,N/A,24/11/2013,13:30,Manchester City,Tottenham Hotspurs,3,0,6,0,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Howard Webb,47228
+666,01122013TotMan,Premier League,N/A,01/12/2013,12:00,Tottenham Hotspurs,Manchester United,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Dean,35884
+667,04122013FulTot,Premier League,N/A,04/12/2013,20:00,Fulham FC,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,Craven Cottage ,London,England,Chris Foy,24128
+668,07122013SunTot,Premier League,N/A,07/12/2013,17:30,Sunderland AFC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,Lee Mason,37963
+669,15122013TotLiv,Premier League,N/A,15/12/2013,16:00,Tottenham Hotspurs,Liverpool FC,0,2,0,5,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jonathan Moss,36069
+670,22122013SouTot,Premier League,N/A,22/12/2013,13:30,Southampton FC,Tottenham Hotspurs,1,1,2,3,Null,Null,Null,Null,A,Saint Mary's ,Southampton,England,Chris Foy,31455
+671,26122013TotWes,Premier League,N/A,26/12/2013,15:00,Tottenham Hotspurs,West Bromwich Albion,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Anthony Taylor,35545
+672,29122013TotSto,Premier League,N/A,29/12/2013,16:00,Tottenham Hotspurs,Stoke City,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kevin Friend,36072
+673,01012014ManTot,Premier League,N/A,01/01/2014,17:30,Manchester United,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Old Trafford ,Manchester,England,Howard Webb,75265
+674,11012014TotCry,Premier League,N/A,11/01/2014,15:00,Tottenham Hotspurs,Crystal Palace,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,36102
+675,19012014SwaTot,Premier League,N/A,19/01/2014,13:30,Swansea City,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Martin Atkinson,20769
+676,29012014TotMan,Premier League,N/A,29/01/2014,19:45,Tottenham Hotspurs,Manchester City,0,1,1,5,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andre Marriner,36071
+677,01022014HulTot,Premier League,N/A,01/02/2014,15:00,Hull City,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Kingston Communications Stadium ,KingstonuponHull,England,Anthony Taylor,24932
+678,09022014TotEve,Premier League,N/A,09/02/2014,13:30,Tottenham Hotspurs,Everton FC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,35944
+679,12022014NewTot,Premier League,N/A,12/02/2014,19:45,Newcastle United,Tottenham Hotspurs,0,1,0,4,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Neil Swarbrick,48264
+680,23022014NorTot,Premier League,N/A,23/02/2014,16:00,Norwich City,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Carrow Road ,Norwich,England,Craig Pawson,26834
+681,02032014TotCar,Premier League,N/A,02/03/2014,16:30,Tottenham Hotspurs,Cardiff City,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35512
+682,08032014CheTot,Premier League,N/A,08/03/2014,17:30,Chelsea FC,Tottenham Hotspurs,0,0,4,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Michael Oliver,41598
+683,16032014TotArs,Premier League,N/A,16/03/2014,16:00,Tottenham Hotspurs,Arsenal FC,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Dean,35711
+684,23032014TotSou,Premier League,N/A,23/03/2014,13:30,Tottenham Hotspurs,Southampton FC,1,2,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,35460
+685,30032014LivTot,Premier League,N/A,30/03/2014,16:00,Liverpool FC,Tottenham Hotspurs,2,0,4,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Phil Dowd,44762
+686,07042014TotSun,Premier League,N/A,07/04/2014,20:00,Tottenham Hotspurs,Sunderland AFC,1,1,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Mason,34410
+687,12042014WesTot,Premier League,N/A,12/04/2014,15:07,West Bromwich Albion,Tottenham Hotspurs,3,1,3,3,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Neil Swarbrick,25398
+688,19042014TotFul,Premier League,N/A,19/04/2014,12:45,Tottenham Hotspurs,Fulham FC,1,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Lee Probert,35841
+689,26042014StoTot,Premier League,N/A,26/04/2014,15:00,Stoke City,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Britannia Stadium ,Stoke-on-Trent,England,Andre Marriner,26021
+690,03052014WesTot,Premier League,N/A,03/05/2014,12:45,West Ham United,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,Upton Park ,London,England,Phil Dowd,34977
+691,11052014TotAst,Premier League,N/A,11/05/2014,15:00,Tottenham Hotspurs,Aston Villa,3,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jonathan Moss,35826
+692,04012014ArsTot,FA Cup,  3. Round,04/01/2014,17:15,Arsenal FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Mark Clattenburg,59476
+693,24092013AstTot,League Cup,  3. Round,24/09/2013,19:45,Aston Villa,Tottenham Hotspurs,0,1,0,4,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Jonathan Moss,22975
+694,30102013TotHul,League Cup,  Round of 16,30/10/2013,19:45,Tottenham Hotspurs,Hull City,1,0,1,1,2,2,8,7,H,White Hart Lane ,London,England,Jonathan Moss,35617
+695,18122013TotWes,League Cup,  Quarter-finals,18/12/2013,19:45,Tottenham Hotspurs,West Ham United,0,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Neil Swarbrick,34080
+696,18092014ParTot,Europa League,  Group C,18/09/2014,18:00,Partizan,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Partizan Stadion ,Beograd,Serbia,Alon Yefet,22112
+697,02102014TotBeş,Europa League,  Group C,02/10/2014,20:05,Tottenham Hotspurs,Beşiktaş,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Manuel Gräfe,24300
+698,23102014TotAst,Europa League,  Group C,23/10/2014,20:05,Tottenham Hotspurs,Asteras Tripolis,2,0,5,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Ivan Kružliak,21428
+699,06112014AstTot,Europa League,  Group C,06/11/2014,18:00,Asteras Tripolis,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Theodoros Kolokotronis ,Tripoli,Greece,Javier Estrada Fernández,5130
+700,27112014TotPar,Europa League,  Group C,27/11/2014,20:05,Tottenham Hotspurs,Partizan,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Evgen Aranovskiy,28362
+701,11122014BeşTot,Europa League,  Group C,11/12/2014,18:00,Beşiktaş,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Atatürk Olimpiyat Stadı ,Istanbul,Turkey,Stefan Johannesson,19511
+702,19022015TotACF,Europa League,  Round of 32,19/02/2015,20:05,Tottenham Hotspurs,ACF Fiorentina,1,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Carlos Velasco Carballo,34235
+703,26022015ACFTot,Europa League,  Round of 32,26/02/2015,18:00,ACF Fiorentina,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Artemio Franchi ,Firenze,Italy,Hüseyin Göçek,29886
+704,21082014AELTot,Europa League, Qual.  Play-offs,21/08/2014,17:00,AEL Limassol,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Antonis Papadopoulos ,Larnaca,Cyprus,Jorge de Sousa,7200
+705,28082014TotAEL,Europa League, Qual.  Play-offs,28/08/2014,19:45,Tottenham Hotspurs,AEL Limassol,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Miroslav Zelinka,29976
+706,16082014WesTot,Premier League,N/A,16/08/2014,15:00,West Ham United,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Upton Park ,London,England,Chris Foy,34977
+707,24082014TotQue,Premier League,N/A,24/08/2014,13:30,Tottenham Hotspurs,Queens Park Rangers,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,36109
+708,31082014TotLiv,Premier League,N/A,31/08/2014,13:30,Tottenham Hotspurs,Liverpool FC,0,1,0,3,Null,Null,Null,Null,A,White Hart Lane ,London,England,Phil Dowd,36130
+709,13092014SunTot,Premier League,N/A,13/09/2014,15:00,Sunderland AFC,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Stadium of Light ,Sunderland,England,Craig Pawson,40799
+710,21092014TotWes,Premier League,N/A,21/09/2014,13:30,Tottenham Hotspurs,West Bromwich Albion,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Kevin Friend,35861
+711,27092014ArsTot,Premier League,N/A,27/09/2014,17:30,Arsenal FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Michael Oliver,59900
+712,05102014TotSou,Premier League,N/A,05/10/2014,14:05,Tottenham Hotspurs,Southampton FC,1,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35564
+713,18102014ManTot,Premier League,N/A,18/10/2014,12:45,Manchester City,Tottenham Hotspurs,2,1,4,1,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Jonathan Moss,45549
+714,26102014TotNew,Premier League,N/A,26/10/2014,13:30,Tottenham Hotspurs,Newcastle United,1,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Anthony Taylor,35650
+715,02112014AstTot,Premier League,N/A,02/11/2014,16:00,Aston Villa,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Neil Swarbrick,32049
+716,09112014TotSto,Premier League,N/A,09/11/2014,13:30,Tottenham Hotspurs,Stoke City,0,2,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Mike Jones,35699
+717,23112014HulTot,Premier League,N/A,23/11/2014,16:00,Hull City,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Kingston Communications Stadium ,KingstonuponHull,England,Craig Pawson,23561
+718,30112014TotEve,Premier League,N/A,30/11/2014,16:00,Tottenham Hotspurs,Everton FC,2,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,35901
+719,03122014CheTot,Premier League,N/A,03/12/2014,19:45,Chelsea FC,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Mike Dean,41518
+720,06122014TotCry,Premier League,N/A,06/12/2014,15:00,Tottenham Hotspurs,Crystal Palace,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Lee Mason,35860
+721,14122014SwaTot,Premier League,N/A,14/12/2014,16:00,Swansea City,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Bobby Madley,20650
+722,20122014TotBur,Premier League,N/A,20/12/2014,15:00,Tottenham Hotspurs,Burnley FC,2,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35681
+723,26122014LeiTot,Premier League,N/A,26/12/2014,15:00,Leicester City,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,King Power Stadium ,Leicester,England,Neil Swarbrick,31870
+724,28122014TotMan,Premier League,N/A,28/12/2014,12:00,Tottenham Hotspurs,Manchester United,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Jonathan Moss,35711
+725,01012015TotChe,Premier League,N/A,01/01/2015,17:30,Tottenham Hotspurs,Chelsea FC,3,1,5,3,Null,Null,Null,Null,H,White Hart Lane ,London,England,Phil Dowd,35903
+726,10012015CryTot,Premier League,N/A,10/01/2015,17:30,Crystal Palace,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Selhurst Park ,London,England,Anthony Taylor,24193
+727,17012015TotSun,Premier League,N/A,17/01/2015,15:00,Tottenham Hotspurs,Sunderland AFC,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Chris Foy,35973
+728,31012015WesTot,Premier League,N/A,31/01/2015,15:00,West Bromwich Albion,Tottenham Hotspurs,0,2,0,3,Null,Null,Null,Null,A,The Hawthorns ,WestBromwich,England,Kevin Friend,25079
+729,07022015TotArs,Premier League,N/A,07/02/2015,12:45,Tottenham Hotspurs,Arsenal FC,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,35659
+730,10022015LivTot,Premier League,N/A,10/02/2015,20:00,Liverpool FC,Tottenham Hotspurs,1,1,3,2,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Phil Dowd,44577
+731,22022015TotWes,Premier League,N/A,22/02/2015,12:00,Tottenham Hotspurs,West Ham United,0,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Jonathan Moss,35837
+732,04032015TotSwa,Premier League,N/A,04/03/2015,19:45,Tottenham Hotspurs,Swansea City,1,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,34008
+733,07032015QueTot,Premier League,N/A,07/03/2015,15:00,Queens Park Rangers,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Loftus Road ,London,England,Craig Pawson,17992
+734,15032015ManTot,Premier League,N/A,15/03/2015,16:00,Manchester United,Tottenham Hotspurs,3,0,3,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Mark Clattenburg,75112
+735,21032015TotLei,Premier League,N/A,21/03/2015,15:00,Tottenham Hotspurs,Leicester City,2,1,4,3,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35950
+736,05042015BurTot,Premier League,N/A,05/04/2015,13:30,Burnley FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Turf Moor ,Burnley,England,Martin Atkinson,18829
+737,11042015TotAst,Premier League,N/A,11/04/2015,15:00,Tottenham Hotspurs,Aston Villa,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Lee Probert,35687
+738,19042015NewTot,Premier League,N/A,19/04/2015,16:00,Newcastle United,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Kevin Friend,47427
+739,25042015SouTot,Premier League,N/A,25/04/2015,12:45,Southampton FC,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Saint Mary's ,Southampton,England,Jonathan Moss,31622
+740,03052015TotMan,Premier League,N/A,03/05/2015,16:00,Tottenham Hotspurs,Manchester City,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andre Marriner,35784
+741,09052015StoTot,Premier League,N/A,09/05/2015,15:00,Stoke City,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Britannia Stadium ,Stoke-on-Trent,England,Mark Clattenburg,27104
+742,16052015TotHul,Premier League,N/A,16/05/2015,15:00,Tottenham Hotspurs,Hull City,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,35857
+743,24052015EveTot,Premier League,N/A,24/05/2015,15:00,Everton FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Goodison Park ,Liverpool,England,Jonathan Moss,39365
+744,05012015BurTot,FA Cup,  3. Round,05/01/2015,19:45,Burnley FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Turf Moor ,Burnley,England,Roger East,9348
+745,14012015TotBur,FA Cup,  3. Round,14/01/2015,20:00,Tottenham Hotspurs,Burnley FC,2,2,4,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Craig Pawson,24367
+746,24012015TotLei,FA Cup,  4. Round,24/01/2015,15:00,Tottenham Hotspurs,Leicester City,1,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Bobby Madley,35548
+747,24092014TotNot,League Cup,  3. Round,24/09/2014,19:45,Tottenham Hotspurs,Nottingham Forest,0,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,31912
+748,29102014TotBri,League Cup,  Round of 16,29/10/2014,19:45,Tottenham Hotspurs,Brighton & Hove Albion,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,33537
+749,17122014TotNew,League Cup,  Quarter-finals,17/12/2014,19:45,Tottenham Hotspurs,Newcastle United,1,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,34677
+750,21012015TotShe,League Cup,  Semi-finals,21/01/2015,20:00,Tottenham Hotspurs,Sheffield United,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neil Swarbrick,35323
+751,28012015SheTot,League Cup,  Semi-finals,28/01/2015,19:45,Sheffield United,Tottenham Hotspurs,0,1,2,2,Null,Null,Null,Null,D,Bramall Lane ,Sheffield,England,Mike Dean,30236
+752,01032015CheTot,League Cup,  Final,01/03/2015,16:00,Chelsea FC,Tottenham Hotspurs,1,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Anthony Taylor,89294
+753,17092015TotQar,Europa League,  Group J,17/09/2015,20:05,Tottenham Hotspurs,Qarabağ FK,2,1,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Adrien Jaccottet,26463
+754,01102015AS Tot,Europa League,  Group J,01/10/2015,18:00,AS Monaco,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Stade Louis II ,Monaco,France,Artur Dias,7216
+755,22102015RSCTot,Europa League,  Group J,22/10/2015,18:00,RSC Anderlecht,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Constant Vanden Stock ,Bruxelles,Belgium,Pol van Boekel,18504
+756,05112015TotRSC,Europa League,  Group J,05/11/2015,20:05,Tottenham Hotspurs,RSC Anderlecht,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Orel Grinfeld,33479
+757,26112015QarTot,Europa League,  Group J,26/11/2015,18:00,Qarabağ FK,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Tofig Bakhramov ,Baku,Azerbaijan,Anasthasios Sidiropoulos,28000
+758,10122015TotAS ,Europa League,  Group J,10/12/2015,20:05,Tottenham Hotspurs,AS Monaco,3,0,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Ivan Bebek,34122
+759,18022016ACFTot,Europa League,  Round of 32,18/02/2016,18:00,ACF Fiorentina,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Artemio Franchi ,Firenze,Italy,Felix Zwayer,15200
+760,25022016TotACF,Europa League,  Round of 32,25/02/2016,20:05,Tottenham Hotspurs,ACF Fiorentina,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Ovidiu Haţegan,34880
+761,10032016BorTot,Europa League,  Round of 16,10/03/2016,18:00,Borussia Dortmund,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Signal Iduna Park ,Dortmund,Germany,Cüneyt Çakır,65848
+762,17032016TotBor,Europa League,  Round of 16,17/03/2016,20:05,Tottenham Hotspurs,Borussia Dortmund,0,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Nicola Rizzoli,34943
+763,08082015ManTot,Premier League,N/A,08/08/2015,12:45,Manchester United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Jonathan Moss,75261
+764,15082015TotSto,Premier League,N/A,15/08/2015,15:00,Tottenham Hotspurs,Stoke City,2,0,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Bobby Madley,36004
+765,22082015LeiTot,Premier League,N/A,22/08/2015,15:00,Leicester City,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,King Power Stadium ,Leicester,England,Martin Atkinson,31971
+766,29082015TotEve,Premier League,N/A,29/08/2015,17:30,Tottenham Hotspurs,Everton FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Jones,35865
+767,13092015SunTot,Premier League,N/A,13/09/2015,13:30,Sunderland AFC,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Stadium of Light ,Sunderland,England,Craig Pawson,40303
+768,20092015TotCry,Premier League,N/A,20/09/2015,13:30,Tottenham Hotspurs,Crystal Palace,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,35723
+769,26092015TotMan,Premier League,N/A,26/09/2015,12:45,Tottenham Hotspurs,Manchester City,1,1,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,35867
+770,04102015SwaTot,Premier League,N/A,04/10/2015,16:00,Swansea City,Tottenham Hotspurs,2,1,2,2,Null,Null,Null,Null,D,Liberty Stadium ,Swansea,Wales,Mike Dean,20845
+771,17102015TotLiv,Premier League,N/A,17/10/2015,12:45,Tottenham Hotspurs,Liverpool FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Craig Pawson,35926
+772,25102015AFCTot,Premier League,N/A,25/10/2015,14:05,AFC Bournemouth,Tottenham Hotspurs,1,3,1,5,Null,Null,Null,Null,A,Vitality Stadium ,Bournemouth,England,Roger East,11332
+773,02112015TotAst,Premier League,N/A,02/11/2015,20:00,Tottenham Hotspurs,Aston Villa,2,0,3,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,34882
+774,08112015ArsTot,Premier League,N/A,08/11/2015,16:00,Arsenal FC,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Martin Atkinson,60060
+775,22112015TotWes,Premier League,N/A,22/11/2015,16:00,Tottenham Hotspurs,West Ham United,2,0,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,35968
+776,29112015TotChe,Premier League,N/A,29/11/2015,12:00,Tottenham Hotspurs,Chelsea FC,0,0,0,0,Null,Null,Null,Null,D,White Hart Lane ,London,England,Michael Oliver,35639
+777,05122015WesTot,Premier League,N/A,05/12/2015,15:00,West Bromwich Albion,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Jonathan Moss,23602
+778,13122015TotNew,Premier League,N/A,13/12/2015,16:00,Tottenham Hotspurs,Newcastle United,1,0,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Roger East,35768
+779,19122015SouTot,Premier League,N/A,19/12/2015,15:00,Southampton FC,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,Saint Mary's ,Southampton,England,Kevin Friend,31636
+780,26122015TotNor,Premier League,N/A,26/12/2015,15:00,Tottenham Hotspurs,Norwich City,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35198
+781,28122015WatTot,Premier League,N/A,28/12/2015,15:00,Watford FC,Tottenham Hotspurs,1,1,1,2,Null,Null,Null,Null,A,Vicarage Road ,Watford,England,Anthony Taylor,20730
+782,03012016EveTot,Premier League,N/A,03/01/2016,16:00,Everton FC,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Michael Oliver,38482
+783,13012016TotLei,Premier League,N/A,13/01/2016,20:00,Tottenham Hotspurs,Leicester City,0,0,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Lee Mason,35850
+784,16012016TotSun,Premier League,N/A,16/01/2016,12:45,Tottenham Hotspurs,Sunderland AFC,1,1,4,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35854
+785,23012016CryTot,Premier League,N/A,23/01/2016,15:00,Crystal Palace,Tottenham Hotspurs,1,0,1,3,Null,Null,Null,Null,A,Selhurst Park ,London,England,Martin Atkinson,24867
+786,02022016NorTot,Premier League,N/A,02/02/2016,19:45,Norwich City,Tottenham Hotspurs,0,2,0,3,Null,Null,Null,Null,A,Carrow Road ,Norwich,England,Kevin Friend,27067
+787,06022016TotWat,Premier League,N/A,06/02/2016,15:00,Tottenham Hotspurs,Watford FC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Roger East,35997
+788,14022016ManTot,Premier League,N/A,14/02/2016,16:15,Manchester City,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,Etihad Stadium ,Manchester,England,Mark Clattenburg,54551
+789,28022016TotSwa,Premier League,N/A,28/02/2016,14:05,Tottenham Hotspurs,Swansea City,0,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Jones,35922
+790,02032016WesTot,Premier League,N/A,02/03/2016,19:45,West Ham United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Upton Park ,London,England,Andre Marriner,34977
+791,05032016TotArs,Premier League,N/A,05/03/2016,12:45,Tottenham Hotspurs,Arsenal FC,0,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Michael Oliver,35762
+792,13032016AstTot,Premier League,N/A,13/03/2016,16:00,Aston Villa,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Anthony Taylor,32393
+793,20032016TotAFC,Premier League,N/A,20/03/2016,16:00,Tottenham Hotspurs,AFC Bournemouth,2,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Neil Swarbrick,36084
+794,02042016LivTot,Premier League,N/A,02/04/2016,17:30,Liverpool FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Jonathan Moss,44062
+795,10042016TotMan,Premier League,N/A,10/04/2016,16:30,Tottenham Hotspurs,Manchester United,0,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,35761
+796,18042016StoTot,Premier League,N/A,18/04/2016,20:00,Stoke City,Tottenham Hotspurs,0,1,0,4,Null,Null,Null,Null,A,Britannia Stadium ,Stoke-on-Trent,England,Neil Swarbrick,27442
+797,25042016TotWes,Premier League,N/A,25/04/2016,20:00,Tottenham Hotspurs,West Bromwich Albion,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Mike Jones,35923
+798,02052016CheTot,Premier League,N/A,02/05/2016,20:00,Chelsea FC,Tottenham Hotspurs,0,2,2,2,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Mark Clattenburg,41545
+799,08052016TotSou,Premier League,N/A,08/05/2016,13:30,Tottenham Hotspurs,Southampton FC,1,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Jonathan Moss,35748
+800,15052016NewTot,Premier League,N/A,15/05/2016,15:00,Newcastle United,Tottenham Hotspurs,2,0,5,1,Null,Null,Null,Null,H,St James' Park ,Newcastle,England,Anthony Taylor,52183
+801,10012016TotLei,FA Cup,  3. Round,10/01/2016,16:00,Tottenham Hotspurs,Leicester City,1,1,2,2,Null,Null,Null,Null,D,White Hart Lane ,London,England,Bobby Madley,35805
+802,20012016LeiTot,FA Cup,  3. Round,20/01/2016,19:45,Leicester City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,King Power Stadium ,Leicester,England,Anthony Taylor,30006
+803,30012016ColTot,FA Cup,  4. Round,30/01/2016,12:45,Colchester United,Tottenham Hotspurs,0,1,1,4,Null,Null,Null,Null,A,JobServe Community Stadium ,Colchester,England,Michael Oliver,9920
+804,21022016TotCry,FA Cup,  Round of 16,21/02/2016,15:00,Tottenham Hotspurs,Crystal Palace,0,1,0,1,Null,Null,Null,Null,A,White Hart Lane ,London,England,Craig Pawson,35547
+805,23092015TotArs,League Cup,  3. Round,23/09/2015,19:45,Tottenham Hotspurs,Arsenal FC,0,1,1,2,Null,Null,Null,Null,A,White Hart Lane ,London,England,Andre Marriner,35687
+806,14092016TotAS ,Champions League,  Group E,14/09/2016,19:45,Tottenham Hotspurs,AS Monaco,1,2,1,2,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Gianluca Rocchi,85011
+807,27092016CSKTot,Champions League,  Group E,27/09/2016,19:45,CSKA Moskva,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Arena Khimki ,Khimki,Russia,Antonio Mateu Lahoz,26153
+808,18102016BayTot,Champions League,  Group E,18/10/2016,19:45,Bayer Leverkusen,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,BayArena ,Leverkusen,Germany,Cüneyt Çakır,28887
+809,02112016TotBay,Champions League,  Group E,02/11/2016,19:45,Tottenham Hotspurs,Bayer Leverkusen,0,0,0,1,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Jonas Eriksson,85512
+810,22112016AS Tot,Champions League,  Group E,22/11/2016,19:45,AS Monaco,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Stade Louis II ,Monaco,France,Björn Kuipers,13100
+811,07122016TotCSK,Champions League,  Group E,07/12/2016,19:45,Tottenham Hotspurs,CSKA Moskva,2,1,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Nicola Rizzoli,62034
+812,16022017KAATot,Europa League,  Round of 32,16/02/2017,18:00,KAA Gent,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Ghelamco Arena ,Gent,Belgium,Benoît Bastien,19267
+813,23022017TotKAA,Europa League,  Round of 32,23/02/2017,20:05,Tottenham Hotspurs,KAA Gent,1,1,2,2,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Jorge de Sousa,80465
+814,13082016EveTot,Premier League,N/A,13/08/2016,15:00,Everton FC,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Martin Atkinson,39494
+815,20082016TotCry,Premier League,N/A,20/08/2016,15:00,Tottenham Hotspurs,Crystal Palace,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,31447
+816,27082016TotLiv,Premier League,N/A,27/08/2016,12:30,Tottenham Hotspurs,Liverpool FC,0,1,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Bobby Madley,31211
+817,10092016StoTot,Premier League,N/A,10/09/2016,15:00,Stoke City,Tottenham Hotspurs,0,1,0,4,Null,Null,Null,Null,A,bet365 Stadium ,Stoke-on-Trent,England,Anthony Taylor,27385
+818,18092016TotSun,Premier League,N/A,18/09/2016,16:30,Tottenham Hotspurs,Sunderland AFC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,31251
+819,24092016MidTot,Premier League,N/A,24/09/2016,15:00,Middlesbrough FC,Tottenham Hotspurs,0,2,1,2,Null,Null,Null,Null,A,Riverside ,Middlesbrough,England,Graham Scott,32703
+820,02102016TotMan,Premier League,N/A,02/10/2016,14:15,Tottenham Hotspurs,Manchester City,2,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,31793
+821,15102016WesTot,Premier League,N/A,15/10/2016,15:00,West Bromwich Albion,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,The Hawthorns ,WestBromwich,England,Kevin Friend,24263
+822,22102016AFCTot,Premier League,N/A,22/10/2016,12:30,AFC Bournemouth,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Vitality Stadium ,Bournemouth,England,Craig Pawson,11201
+823,29102016TotLei,Premier League,N/A,29/10/2016,15:00,Tottenham Hotspurs,Leicester City,1,0,1,1,Null,Null,Null,Null,D,White Hart Lane ,London,England,Bobby Madley,31868
+824,06112016ArsTot,Premier League,N/A,06/11/2016,12:00,Arsenal FC,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Mark Clattenburg,60039
+825,19112016TotWes,Premier League,N/A,19/11/2016,17:30,Tottenham Hotspurs,West Ham United,0,1,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,31212
+826,26112016CheTot,Premier League,N/A,26/11/2016,17:30,Chelsea FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Michael Oliver,41513
+827,03122016TotSwa,Premier League,N/A,03/12/2016,15:00,Tottenham Hotspurs,Swansea City,2,0,5,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jonathan Moss,31663
+828,11122016ManTot,Premier League,N/A,11/12/2016,14:15,Manchester United,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Bobby Madley,75271
+829,14122016TotHul,Premier League,N/A,14/12/2016,20:00,Tottenham Hotspurs,Hull City,1,0,3,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,31347
+830,18122016TotBur,Premier League,N/A,18/12/2016,16:00,Tottenham Hotspurs,Burnley FC,1,1,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Kevin Friend,31467
+831,28122016SouTot,Premier League,N/A,28/12/2016,19:45,Southampton FC,Tottenham Hotspurs,1,1,1,4,Null,Null,Null,Null,A,Saint Mary's ,Southampton,England,Mike Dean,31853
+832,01012017WatTot,Premier League,N/A,01/01/2017,13:30,Watford FC,Tottenham Hotspurs,0,3,1,4,Null,Null,Null,Null,A,Vicarage Road ,Watford,England,Michael Oliver,20882
+833,04012017TotChe,Premier League,N/A,04/01/2017,20:00,Tottenham Hotspurs,Chelsea FC,1,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,31491
+834,14012017TotWes,Premier League,N/A,14/01/2017,12:30,Tottenham Hotspurs,West Bromwich Albion,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,31613
+835,21012017ManTot,Premier League,N/A,21/01/2017,17:30,Manchester City,Tottenham Hotspurs,0,0,2,2,Null,Null,Null,Null,D,Etihad Stadium ,Manchester,England,Andre Marriner,54402
+836,31012017SunTot,Premier League,N/A,31/01/2017,19:45,Sunderland AFC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stadium of Light ,Sunderland,England,Lee Mason,40058
+837,04022017TotMid,Premier League,N/A,04/02/2017,17:30,Tottenham Hotspurs,Middlesbrough FC,0,0,1,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mark Clattenburg,31949
+838,11022017LivTot,Premier League,N/A,11/02/2017,17:30,Liverpool FC,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Anthony Taylor,53159
+839,26022017TotSto,Premier League,N/A,26/02/2017,13:30,Tottenham Hotspurs,Stoke City,4,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jonathan Moss,31864
+840,05032017TotEve,Premier League,N/A,05/03/2017,13:30,Tottenham Hotspurs,Everton FC,1,0,3,2,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,31962
+841,19032017TotSou,Premier League,N/A,19/03/2017,14:15,Tottenham Hotspurs,Southampton FC,2,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Andre Marriner,31697
+842,01042017BurTot,Premier League,N/A,01/04/2017,15:00,Burnley FC,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,Turf Moor ,Burnley,England,Stuart Attwell,21684
+843,05042017SwaTot,Premier League,N/A,05/04/2017,19:45,Swansea City,Tottenham Hotspurs,1,0,1,3,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Jonathan Moss,20855
+844,08042017TotWat,Premier League,N/A,08/04/2017,12:30,Tottenham Hotspurs,Watford FC,3,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Anthony Taylor,31706
+845,15042017TotAFC,Premier League,N/A,15/04/2017,12:30,Tottenham Hotspurs,AFC Bournemouth,2,0,4,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,31943
+846,26042017CryTot,Premier League,N/A,26/04/2017,20:00,Crystal Palace,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Selhurst Park ,London,England,Jonathan Moss,25596
+847,30042017TotArs,Premier League,N/A,30/04/2017,16:30,Tottenham Hotspurs,Arsenal FC,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Michael Oliver,31811
+848,05052017WesTot,Premier League,N/A,05/05/2017,20:00,West Ham United,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,London Stadium ,London,England,Anthony Taylor,56992
+849,14052017TotMan,Premier League,N/A,14/05/2017,16:30,Tottenham Hotspurs,Manchester United,1,0,2,1,Null,Null,Null,Null,H,White Hart Lane ,London,England,Jonathan Moss,31848
+850,18052017LeiTot,Premier League,N/A,18/05/2017,19:45,Leicester City,Tottenham Hotspurs,0,2,1,6,Null,Null,Null,Null,A,King Power Stadium ,Leicester,England,Michael Oliver,31351
+851,21052017HulTot,Premier League,N/A,21/05/2017,15:00,Hull City,Tottenham Hotspurs,0,3,1,7,Null,Null,Null,Null,A,Kingston Communications Stadium ,KingstonuponHull,England,Andre Marriner,23804
+852,08012017TotAst,FA Cup,  3. Round,08/01/2017,16:00,Tottenham Hotspurs,Aston Villa,0,0,2,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Mike Dean,31182
+853,28012017TotWyc,FA Cup,  4. Round,28/01/2017,15:00,Tottenham Hotspurs,Wycombe Wanderers,0,2,4,3,Null,Null,Null,Null,H,White Hart Lane ,London,England,Roger East,31440
+854,19022017FulTot,FA Cup,  Round of 16,19/02/2017,14:00,Fulham FC,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,Craven Cottage ,London,England,Bobby Madley,22557
+855,12032017TotMil,FA Cup,  Quarter-finals,12/03/2017,14:00,Tottenham Hotspurs,Millwall FC,2,0,6,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,Martin Atkinson,31137
+856,22042017TotChe,FA Cup,  Semi-finals,22/04/2017,17:15,Tottenham Hotspurs,Chelsea FC,1,2,2,4,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Martin Atkinson,86355
+857,21092016TotGil,League Cup,  3. Round,21/09/2016,20:00,Tottenham Hotspurs,Gillingham FC,1,0,5,0,Null,Null,Null,Null,H,White Hart Lane ,London,England,David Coote,26244
+858,25102016LivTot,League Cup,  Round of 16,25/10/2016,19:45,Liverpool FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Jonathan Moss,53051
+859,13092017TotBor,Champions League,  Group H,13/09/2017,19:45,Tottenham Hotspurs,Borussia Dortmund,2,1,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Gianluca Rocchi,67343
+860,26092017APOTot,Champions League,  Group H,26/09/2017,19:45,APOEL Nikosia,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,Neo GSP Stadium ,Nikosia,Cyprus,Pavel Královec,16324
+861,17102017ReaTot,Champions League,  Group H,17/10/2017,19:45,Real Madrid,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Santiago Bernabéu ,Madrid,Spain,Szymon Marciniak,76589
+862,01112017TotRea,Champions League,  Group H,01/11/2017,19:45,Tottenham Hotspurs,Real Madrid,1,0,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Cüneyt Çakır,83782
+863,21112017BorTot,Champions League,  Group H,21/11/2017,19:45,Borussia Dortmund,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Signal Iduna Park ,Dortmund,Germany,Clément Turpin,65849
+864,06122017TotAPO,Champions League,  Group H,06/12/2017,19:45,Tottenham Hotspurs,APOEL Nikosia,2,0,3,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Slavko Vinčić,42679
+865,13022018JuvTot,Champions League,  Round of 16,13/02/2018,19:45,Juventus,Tottenham Hotspurs,2,1,2,2,Null,Null,Null,Null,D,Allianz Stadium ,Torino,Italy,Dr. Felix Brych,41232
+866,07032018TotJuv,Champions League,  Round of 16,07/03/2018,19:45,Tottenham Hotspurs,Juventus,1,0,1,2,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Szymon Marciniak,84010
+867,13082017NewTot,Premier League,N/A,13/08/2017,13:30,Newcastle United,Tottenham Hotspurs,0,0,0,2,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Andre Marriner,52077
+868,20082017TotChe,Premier League,N/A,20/08/2017,16:00,Tottenham Hotspurs,Chelsea FC,0,1,1,2,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Anthony Taylor,73587
+869,27082017TotBur,Premier League,N/A,27/08/2017,16:00,Tottenham Hotspurs,Burnley FC,0,0,1,1,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Lee Mason,67862
+870,09092017EveTot,Premier League,N/A,09/09/2017,15:00,Everton FC,Tottenham Hotspurs,0,2,0,3,Null,Null,Null,Null,A,Goodison Park ,Liverpool,England,Graham Scott,38835
+871,16092017TotSwa,Premier League,N/A,16/09/2017,17:30,Tottenham Hotspurs,Swansea City,0,0,0,0,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Mike Dean,65366
+872,23092017WesTot,Premier League,N/A,23/09/2017,12:30,West Ham United,Tottenham Hotspurs,0,2,2,3,Null,Null,Null,Null,A,London Stadium ,London,England,Michael Oliver,56988
+873,30092017HudTot,Premier League,N/A,30/09/2017,12:30,Huddersfield Town,Tottenham Hotspurs,0,3,0,4,Null,Null,Null,Null,A,John Smith’s Stadium ,Huddersfield,England,Neil Swarbrick,24169
+874,14102017TotAFC,Premier League,N/A,14/10/2017,15:00,Tottenham Hotspurs,AFC Bournemouth,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Bobby Madley,73502
+875,22102017TotLiv,Premier League,N/A,22/10/2017,16:00,Tottenham Hotspurs,Liverpool FC,3,1,4,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Andre Marriner,80827
+876,28102017ManTot,Premier League,N/A,28/10/2017,12:30,Manchester United,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Jonathan Moss,75034
+877,05112017TotCry,Premier League,N/A,05/11/2017,12:00,Tottenham Hotspurs,Crystal Palace,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Kevin Friend,65270
+878,18112017ArsTot,Premier League,N/A,18/11/2017,12:30,Arsenal FC,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Mike Dean,59530
+879,25112017TotWes,Premier League,N/A,25/11/2017,15:00,Tottenham Hotspurs,West Bromwich Albion,0,1,1,1,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Mike Jones,65905
+880,28112017LeiTot,Premier League,N/A,28/11/2017,19:45,Leicester City,Tottenham Hotspurs,2,0,2,1,Null,Null,Null,Null,H,King Power Stadium ,Leicester,England,Anthony Taylor,31950
+881,02122017WatTot,Premier League,N/A,02/12/2017,15:00,Watford FC,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Vicarage Road ,Watford,England,Martin Atkinson,20278
+882,09122017TotSto,Premier League,N/A,09/12/2017,15:00,Tottenham Hotspurs,Stoke City,1,0,5,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Roger East,62202
+883,13122017TotBri,Premier League,N/A,13/12/2017,20:00,Tottenham Hotspurs,Brighton & Hove Albion,1,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Bobby Madley,55124
+884,16122017ManTot,Premier League,N/A,16/12/2017,17:30,Manchester City,Tottenham Hotspurs,1,0,4,1,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Craig Pawson,54214
+885,23122017BurTot,Premier League,N/A,23/12/2017,17:30,Burnley FC,Tottenham Hotspurs,0,1,0,3,Null,Null,Null,Null,A,Turf Moor ,Burnley,England,Michael Oliver,21650
+886,26122017TotSou,Premier League,N/A,26/12/2017,12:30,Tottenham Hotspurs,Southampton FC,2,0,5,2,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Graham Scott,55412
+887,02012018SwaTot,Premier League,N/A,02/01/2018,19:45,Swansea City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Bobby Madley,20615
+888,04012018TotWes,Premier League,N/A,04/01/2018,20:00,Tottenham Hotspurs,West Ham United,0,0,1,1,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Mike Dean,50034
+889,13012018TotEve,Premier League,N/A,13/01/2018,17:30,Tottenham Hotspurs,Everton FC,1,0,4,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Craig Pawson,76251
+890,21012018SouTot,Premier League,N/A,21/01/2018,16:00,Southampton FC,Tottenham Hotspurs,1,1,1,1,Null,Null,Null,Null,D,Saint Mary's ,Southampton,England,Kevin Friend,31361
+891,31012018TotMan,Premier League,N/A,31/01/2018,20:00,Tottenham Hotspurs,Manchester United,2,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Andre Marriner,81978
+892,04022018LivTot,Premier League,N/A,04/02/2018,16:30,Liverpool FC,Tottenham Hotspurs,1,0,2,2,Null,Null,Null,Null,D,Anfield ,Liverpool,England,Jonathan Moss,53213
+893,10022018TotArs,Premier League,N/A,10/02/2018,12:30,Tottenham Hotspurs,Arsenal FC,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Anthony Taylor,83222
+894,25022018CryTot,Premier League,N/A,25/02/2018,12:00,Crystal Palace,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Selhurst Park ,London,England,Kevin Friend,25287
+895,03032018TotHud,Premier League,N/A,03/03/2018,15:00,Tottenham Hotspurs,Huddersfield Town,1,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Kevin Friend,68311
+896,11032018AFCTot,Premier League,N/A,11/03/2018,16:00,AFC Bournemouth,Tottenham Hotspurs,1,1,1,4,Null,Null,Null,Null,A,Vitality Stadium ,Bournemouth,England,Mike Dean,10623
+897,01042018CheTot,Premier League,N/A,01/04/2018,16:00,Chelsea FC,Tottenham Hotspurs,1,1,1,3,Null,Null,Null,Null,A,Stamford Bridge ,London,England,Andre Marriner,41364
+898,07042018StoTot,Premier League,N/A,07/04/2018,15:00,Stoke City,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,bet365 Stadium ,Stoke-on-Trent,England,Graham Scott,29515
+899,14042018TotMan,Premier League,N/A,14/04/2018,19:45,Tottenham Hotspurs,Manchester City,1,2,1,3,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Jonathan Moss,80811
+900,17042018BriTot,Premier League,N/A,17/04/2018,19:45,Brighton & Hove Albion,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Amex Stadium ,Brighton,England,Kevin Friend,30440
+901,30042018TotWat,Premier League,N/A,30/04/2018,20:00,Tottenham Hotspurs,Watford FC,1,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Michael Oliver,52675
+902,05052018WesTot,Premier League,N/A,05/05/2018,15:00,West Bromwich Albion,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,The Hawthorns ,WestBromwich,England,Mike Jones,23685
+903,09052018TotNew,Premier League,N/A,09/05/2018,20:00,Tottenham Hotspurs,Newcastle United,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Neil Swarbrick,54923
+904,13052018TotLei,Premier League,N/A,13/05/2018,15:00,Tottenham Hotspurs,Leicester City,1,2,5,4,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Craig Pawson,77841
+905,07012018TotAFC,FA Cup,  3. Round,07/01/2018,15:00,Tottenham Hotspurs,AFC Wimbledon,0,0,3,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,David Coote,47527
+906,27012018NewTot,FA Cup,  4. Round,27/01/2018,17:30,Newport County,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Rodney Parade ,Newport,Wales,Roger East,9836
+907,07022018TotNew,FA Cup,  4. Round,07/02/2018,19:45,Tottenham Hotspurs,Newport County,2,0,2,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Stuart Attwell,38947
+908,18022018RocTot,FA Cup,  Round of 16,18/02/2018,16:00,Rochdale AFC,Tottenham Hotspurs,1,0,2,2,Null,Null,Null,Null,D,Spotland ,Rochdale,England,Bobby Madley,8480
+909,28022018TotRoc,FA Cup,  Round of 16,28/02/2018,19:45,Tottenham Hotspurs,Rochdale AFC,1,1,6,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Paul Tierney,24627
+910,17032018SwaTot,FA Cup,  Quarter-finals,17/03/2018,12:15,Swansea City,Tottenham Hotspurs,0,2,0,3,Null,Null,Null,Null,A,Liberty Stadium ,Swansea,Wales,Kevin Friend,17498
+911,21042018ManTot,FA Cup,  Semi-finals,21/04/2018,17:15,Manchester United,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Anthony Taylor,84667
+912,19092017TotBar,League Cup,  3. Round,19/09/2017,20:00,Tottenham Hotspurs,Barnsley FC,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Tim Robinson,23826
+913,25102017TotWes,League Cup,  Round of 16,25/10/2017,20:00,Tottenham Hotspurs,West Ham United,2,0,2,3,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Mike Dean,36168
+914,18092018IntTot,Champions League,  Group B,18/09/2018,17:55,Inter,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Giuseppe Meazza ,Milano,Italy,Clément Turpin,64123
+915,03102018TotFC ,Champions League,  Group B,03/10/2018,20:00,Tottenham Hotspurs,FC Barcelona,0,2,2,4,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Felix Zwayer,82137
+916,24102018PSVTot,Champions League,  Group B,24/10/2018,17:55,PSV Eindhoven,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Philips Stadion ,Eindhoven,Netherlands,Slavko Vinčić,35000
+917,06112018TotPSV,Champions League,  Group B,06/11/2018,20:00,Tottenham Hotspurs,PSV Eindhoven,0,1,2,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Ivan Kružliak,46588
+918,28112018TotInt,Champions League,  Group B,28/11/2018,20:00,Tottenham Hotspurs,Inter,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Cüneyt Çakır,57132
+919,11122018FC Tot,Champions League,  Group B,11/12/2018,20:00,FC Barcelona,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Camp Nou ,Barcelona,Spain,Milorad Mažić,69961
+920,13022019TotBor,Champions League,  Round of 16,13/02/2019,20:00,Tottenham Hotspurs,Borussia Dortmund,0,0,3,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Antonio Mateu Lahoz,71214
+921,05032019BorTot,Champions League,  Round of 16,05/03/2019,20:00,Borussia Dortmund,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Signal Iduna Park ,Dortmund,Germany,Danny Makkelie,66099
+922,09042019TotMan,Champions League,  Quarter-finals,09/04/2019,20:00,Tottenham Hotspurs,Manchester City,0,0,1,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Björn Kuipers,60044
+923,17042019ManTot,Champions League,  Quarter-finals,17/04/2019,20:00,Manchester City,Tottenham Hotspurs,3,2,4,3,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Cüneyt Çakır,53348
+924,30042019TotAFC,Champions League,  Semi-finals,30/04/2019,20:00,Tottenham Hotspurs,AFC Ajax,0,1,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Antonio Mateu Lahoz,60243
+925,08052019AFCTot,Champions League,  Semi-finals,08/05/2019,20:00,AFC Ajax,Tottenham Hotspurs,2,0,2,3,Null,Null,Null,Null,A,Johan Cruijff ArenA ,Amsterdam,Netherlands,Dr. Felix Brych,52641
+926,01062019TotLiv,Champions League,  Final,01/06/2019,20:00,Tottenham Hotspurs,Liverpool FC,0,1,0,2,Null,Null,Null,Null,A,Wanda Metropolitano ,Madrid,Spain,Damir Skomina,63272
+927,11082018NewTot,Premier League,N/A,11/08/2018,12:30,Newcastle United,Tottenham Hotspurs,1,2,1,2,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,Martin Atkinson,51749
+928,18082018TotFul,Premier League,N/A,18/08/2018,15:00,Tottenham Hotspurs,Fulham FC,1,0,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Anthony Taylor,58297
+929,27082018ManTot,Premier League,N/A,27/08/2018,20:00,Manchester United,Tottenham Hotspurs,0,0,0,3,Null,Null,Null,Null,A,Old Trafford ,Manchester,England,Craig Pawson,74400
+930,02092018WatTot,Premier League,N/A,02/09/2018,16:00,Watford FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Vicarage Road ,Watford,England,Andre Marriner,20141
+931,15092018TotLiv,Premier League,N/A,15/09/2018,12:30,Tottenham Hotspurs,Liverpool FC,0,1,1,2,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Michael Oliver,80188
+932,22092018BriTot,Premier League,N/A,22/09/2018,17:30,Brighton & Hove Albion,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Amex Stadium ,Brighton,England,Chris Kavanagh,30531
+933,29092018HudTot,Premier League,N/A,29/09/2018,15:00,Huddersfield Town,Tottenham Hotspurs,0,2,0,2,Null,Null,Null,Null,A,John Smith’s Stadium ,Huddersfield,England,Craig Pawson,23885
+934,06102018TotCar,Premier League,N/A,06/10/2018,15:00,Tottenham Hotspurs,Cardiff City,1,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Mike Dean,43268
+935,20102018WesTot,Premier League,N/A,20/10/2018,15:00,West Ham United,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,London Stadium ,London,England,Martin Atkinson,56921
+936,29102018TotMan,Premier League,N/A,29/10/2018,20:00,Tottenham Hotspurs,Manchester City,0,1,0,1,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Kevin Friend,56854
+937,03112018WolTot,Premier League,N/A,03/11/2018,19:45,Wolverhampton Wanderers,Tottenham Hotspurs,0,2,2,3,Null,Null,Null,Null,A,Molineux Stadium ,Wolverhampton,England,Mike Dean,31185
+938,10112018CryTot,Premier League,N/A,10/11/2018,17:30,Crystal Palace,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Selhurst Park ,London,England,Jonathan Moss,25685
+939,24112018TotChe,Premier League,N/A,24/11/2018,17:30,Tottenham Hotspurs,Chelsea FC,2,0,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Martin Atkinson,55465
+940,02122018ArsTot,Premier League,N/A,02/12/2018,14:05,Arsenal FC,Tottenham Hotspurs,1,2,4,2,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Mike Dean,59973
+941,05122018TotSou,Premier League,N/A,05/12/2018,20:00,Tottenham Hotspurs,Southampton FC,1,0,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Anthony Taylor,33012
+942,08122018LeiTot,Premier League,N/A,08/12/2018,19:45,Leicester City,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,King Power Stadium ,Leicester,England,Craig Pawson,31957
+943,15122018TotBur,Premier League,N/A,15/12/2018,15:00,Tottenham Hotspurs,Burnley FC,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Graham Scott,41645
+944,23122018EveTot,Premier League,N/A,23/12/2018,16:00,Everton FC,Tottenham Hotspurs,1,3,2,6,Null,Null,Null,Null,A,Goodison Park ,Liverpool,England,Paul Tierney,39319
+945,26122018TotAFC,Premier League,N/A,26/12/2018,15:00,Tottenham Hotspurs,AFC Bournemouth,3,0,5,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Chris Kavanagh,45154
+946,29122018TotWol,Premier League,N/A,29/12/2018,15:00,Tottenham Hotspurs,Wolverhampton Wanderers,1,0,1,3,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Stuart Attwell,46356
+947,01012019CarTot,Premier League,N/A,01/01/2019,17:30,Cardiff City,Tottenham Hotspurs,0,3,0,3,Null,Null,Null,Null,A,Cardiff City Stadium ,Cardiff,Wales,Kevin Friend,32485
+948,13012019TotMan,Premier League,N/A,13/01/2019,16:30,Tottenham Hotspurs,Manchester United,0,1,0,1,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Mike Dean,80062
+949,20012019FulTot,Premier League,N/A,20/01/2019,16:00,Fulham FC,Tottenham Hotspurs,1,0,1,2,Null,Null,Null,Null,A,Craven Cottage ,London,England,Craig Pawson,24807
+950,30012019TotWat,Premier League,N/A,30/01/2019,20:00,Tottenham Hotspurs,Watford FC,0,1,2,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Graham Scott,29164
+951,02022019TotNew,Premier League,N/A,02/02/2019,12:30,Tottenham Hotspurs,Newcastle United,0,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Andre Marriner,41219
+952,10022019TotLei,Premier League,N/A,10/02/2019,13:30,Tottenham Hotspurs,Leicester City,1,0,3,1,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Michael Oliver,44154
+953,23022019BurTot,Premier League,N/A,23/02/2019,12:30,Burnley FC,Tottenham Hotspurs,0,0,2,1,Null,Null,Null,Null,H,Turf Moor ,Burnley,England,Mike Dean,21338
+954,27022019CheTot,Premier League,N/A,27/02/2019,20:00,Chelsea FC,Tottenham Hotspurs,0,0,2,0,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Andre Marriner,40542
+955,02032019TotArs,Premier League,N/A,02/03/2019,12:30,Tottenham Hotspurs,Arsenal FC,0,1,1,1,Null,Null,Null,Null,D,Wembley Stadium ,London,England,Anthony Taylor,81332
+956,09032019SouTot,Premier League,N/A,09/03/2019,15:00,Southampton FC,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Kevin Friend,31890
+957,31032019LivTot,Premier League,N/A,31/03/2019,16:30,Liverpool FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Martin Atkinson,53322
+958,03042019TotCry,Premier League,N/A,03/04/2019,19:45,Tottenham Hotspurs,Crystal Palace,0,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Andre Marriner,59215
+959,13042019TotHud,Premier League,N/A,13/04/2019,12:30,Tottenham Hotspurs,Huddersfield Town,2,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Lee Mason,58308
+960,20042019ManTot,Premier League,N/A,20/04/2019,12:30,Manchester City,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Michael Oliver,54489
+961,23042019TotBri,Premier League,N/A,23/04/2019,19:45,Tottenham Hotspurs,Brighton & Hove Albion,0,0,1,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Chris Kavanagh,56251
+962,27042019TotWes,Premier League,N/A,27/04/2019,12:30,Tottenham Hotspurs,West Ham United,0,0,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Anthony Taylor,60043
+963,04052019AFCTot,Premier League,N/A,04/05/2019,12:30,AFC Bournemouth,Tottenham Hotspurs,0,0,1,0,Null,Null,Null,Null,H,Vitality Stadium ,Bournemouth,England,Craig Pawson,10630
+964,12052019TotEve,Premier League,N/A,12/05/2019,15:00,Tottenham Hotspurs,Everton FC,1,0,2,2,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Andre Marriner,60124
+965,04012019TraTot,FA Cup,  3. Round,04/01/2019,19:45,Tranmere Rovers,Tottenham Hotspurs,0,1,0,7,Null,Null,Null,Null,A,Prenton Park ,Birkenhead,England,Andre Marriner,12553
+966,27012019CryTot,FA Cup,  4. Round,27/01/2019,16:00,Crystal Palace,Tottenham Hotspurs,2,0,2,0,Null,Null,Null,Null,H,Selhurst Park ,London,England,Kevin Friend,19491
+967,26092018TotWat,League Cup,  3. Round,26/09/2018,20:00,Tottenham Hotspurs,Watford FC,0,0,2,2,Null,Null,4,2,H,stadium:mk ,MiltonKeynes,England,Lee Mason,23650
+968,31102018WesTot,League Cup,  Round of 16,31/10/2018,19:45,West Ham United,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,London Stadium ,London,England,Stuart Attwell,50270
+969,19122018ArsTot,League Cup,  Quarter-finals,19/12/2018,19:45,Arsenal FC,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Emirates Stadium ,London,England,Jonathan Moss,59016
+970,08012019TotChe,League Cup,  Semi-finals,08/01/2019,20:00,Tottenham Hotspurs,Chelsea FC,1,0,1,0,Null,Null,Null,Null,H,Wembley Stadium ,London,England,Michael Oliver,44371
+971,24012019CheTot,League Cup,  Semi-finals,24/01/2019,19:45,Chelsea FC,Tottenham Hotspurs,2,0,2,1,2,1,4,2,H,Stamford Bridge ,London,England,Martin Atkinson,38610
+972,18092019OlyTot,Champions League,  Group B,18/09/2019,17:55,Olympiakos Piraeus,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,Georgios Karaiskakis ,Piräus,Greece,Gianluca Rocchi,31001
+973,01102019TotBay,Champions League,  Group B,01/10/2019,20:00,Tottenham Hotspurs,Bayern München,1,2,2,7,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Clément Turpin,60127
+974,22102019TotCrv,Champions League,  Group B,22/10/2019,20:00,Tottenham Hotspurs,Crvena Zvezda,3,0,5,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Marco Guida,51743
+975,06112019CrvTot,Champions League,  Group B,06/11/2019,20:00,Crvena Zvezda,Tottenham Hotspurs,0,1,0,4,Null,Null,Null,Null,A,Marakana ,Beograd,Serbia,Carlos Del Cerro Grande,42381
+976,26112019TotOly,Champions League,  Group B,26/11/2019,20:00,Tottenham Hotspurs,Olympiakos Piraeus,1,2,4,2,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Georgi Kabakov,57024
+977,11122019BayTot,Champions League,  Group B,11/12/2019,20:00,Bayern München,Tottenham Hotspurs,2,1,3,1,Null,Null,Null,Null,H,Allianz Arena ,München,Germany,Gianluca Rocchi,66353
+978,19022020TotRB ,Champions League,  Round of 16,19/02/2020,20:00,Tottenham Hotspurs,RB Leipzig,0,0,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Cüneyt Çakır,60095
+979,10032020RB Tot,Champions League,  Round of 16,10/03/2020,20:00,RB Leipzig,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Red Bull Arena ,Leipzig,Germany,Carlos Del Cerro Grande,42146
+980,10082019TotAst,Premier League,N/A,10/08/2019,17:30,Tottenham Hotspurs,Aston Villa,0,1,3,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Chris Kavanagh,60407
+981,17082019ManTot,Premier League,N/A,17/08/2019,17:30,Manchester City,Tottenham Hotspurs,2,1,2,2,Null,Null,Null,Null,D,Etihad Stadium ,Manchester,England,Michael Oliver,54503
+982,25082019TotNew,Premier League,N/A,25/08/2019,16:30,Tottenham Hotspurs,Newcastle United,0,1,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Mike Dean,59245
+983,01092019ArsTot,Premier League,N/A,01/09/2019,16:30,Arsenal FC,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,Emirates Stadium ,London,England,Martin Atkinson,60333
+984,14092019TotCry,Premier League,N/A,14/09/2019,15:00,Tottenham Hotspurs,Crystal Palace,4,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Craig Pawson,59812
+985,21092019LeiTot,Premier League,N/A,21/09/2019,12:30,Leicester City,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,King Power Stadium ,Leicester,England,Paul Tierney,32129
+986,28092019TotSou,Premier League,N/A,28/09/2019,15:00,Tottenham Hotspurs,Southampton FC,2,1,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Graham Scott,59645
+987,05102019BriTot,Premier League,N/A,05/10/2019,12:30,Brighton & Hove Albion,Tottenham Hotspurs,2,0,3,0,Null,Null,Null,Null,H,Amex Stadium ,Brighton,England,Jonathan Moss,30610
+988,19102019TotWat,Premier League,N/A,19/10/2019,15:00,Tottenham Hotspurs,Watford FC,0,1,1,1,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Chris Kavanagh,58754
+989,27102019LivTot,Premier League,N/A,27/10/2019,16:30,Liverpool FC,Tottenham Hotspurs,0,1,2,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Anthony Taylor,53222
+990,03112019EveTot,Premier League,N/A,03/11/2019,16:30,Everton FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Martin Atkinson,39001
+991,09112019TotShe,Premier League,N/A,09/11/2019,15:00,Tottenham Hotspurs,Sheffield United,0,0,1,1,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Graham Scott,59781
+992,23112019WesTot,Premier League,N/A,23/11/2019,12:30,West Ham United,Tottenham Hotspurs,0,2,2,3,Null,Null,Null,Null,A,London Stadium ,London,England,Michael Oliver,59930
+993,30112019TotAFC,Premier League,N/A,30/11/2019,15:00,Tottenham Hotspurs,AFC Bournemouth,1,0,3,2,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Lee Mason,59626
+994,04122019ManTot,Premier League,N/A,04/12/2019,19:30,Manchester United,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Old Trafford ,Manchester,England,Paul Tierney,73252
+995,07122019TotBur,Premier League,N/A,07/12/2019,15:00,Tottenham Hotspurs,Burnley FC,3,0,5,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Kevin Friend,58401
+996,15122019WolTot,Premier League,N/A,15/12/2019,14:00,Wolverhampton Wanderers,Tottenham Hotspurs,0,1,1,2,Null,Null,Null,Null,A,Molineux Stadium ,Wolverhampton,England,Stuart Attwell,31674
+997,22122019TotChe,Premier League,N/A,22/12/2019,16:30,Tottenham Hotspurs,Chelsea FC,0,2,0,2,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Anthony Taylor,61104
+998,26122019TotBri,Premier League,N/A,26/12/2019,12:30,Tottenham Hotspurs,Brighton & Hove Albion,0,1,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Graham Scott,56308
+999,28122019NorTot,Premier League,N/A,28/12/2019,17:30,Norwich City,Tottenham Hotspurs,1,0,2,2,Null,Null,Null,Null,D,Carrow Road ,Norwich,England,Kevin Friend,27072
+1000,01012020SouTot,Premier League,N/A,01/01/2020,15:00,Southampton FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Saint Mary's ,Southampton,England,Mike Dean,30976
+1001,11012020TotLiv,Premier League,N/A,11/01/2020,17:30,Tottenham Hotspurs,Liverpool FC,0,1,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Martin Atkinson,61023
+1002,18012020WatTot,Premier League,N/A,18/01/2020,12:30,Watford FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Vicarage Road ,Watford,England,Michael Oliver,21366
+1003,22012020TotNor,Premier League,N/A,22/01/2020,19:30,Tottenham Hotspurs,Norwich City,1,0,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Chris Kavanagh,58182
+1004,02022020TotMan,Premier League,N/A,02/02/2020,16:30,Tottenham Hotspurs,Manchester City,0,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Mike Dean,61022
+1005,16022020AstTot,Premier League,N/A,16/02/2020,14:00,Aston Villa,Tottenham Hotspurs,1,2,2,3,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Martin Atkinson,41874
+1006,22022020CheTot,Premier League,N/A,22/02/2020,12:30,Chelsea FC,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,Stamford Bridge ,London,England,Michael Oliver,40608
+1007,01032020TotWol,Premier League,N/A,01/03/2020,14:00,Tottenham Hotspurs,Wolverhampton Wanderers,2,1,2,3,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Stuart Attwell,58064
+1008,07032020BurTot,Premier League,N/A,07/03/2020,17:30,Burnley FC,Tottenham Hotspurs,1,0,1,1,Null,Null,Null,Null,D,Turf Moor ,Burnley,England,Jonathan Moss,20496
+1009,19062020TotMan,Premier League,N/A,19/06/2020,20:15,Tottenham Hotspurs,Manchester United,1,0,1,1,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Jonathan Moss,
+1010,23062020TotWes,Premier League,N/A,23/06/2020,20:15,Tottenham Hotspurs,West Ham United,0,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Craig Pawson,
+1011,02072020SheTot,Premier League,N/A,02/07/2020,18:00,Sheffield United,Tottenham Hotspurs,1,0,3,1,Null,Null,Null,Null,H,Bramall Lane ,Sheffield,England,Chris Kavanagh,
+1012,06072020TotEve,Premier League,N/A,06/07/2020,20:00,Tottenham Hotspurs,Everton FC,1,0,1,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Graham Scott,
+1013,09072020AFCTot,Premier League,N/A,09/07/2020,18:00,AFC Bournemouth,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Vitality Stadium ,Bournemouth,England,Paul Tierney,
+1014,12072020TotArs,Premier League,N/A,12/07/2020,16:30,Tottenham Hotspurs,Arsenal FC,1,1,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Michael Oliver,
+1015,15072020NewTot,Premier League,N/A,15/07/2020,18:00,Newcastle United,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,David Coote,
+1016,19072020TotLei,Premier League,N/A,19/07/2020,16:00,Tottenham Hotspurs,Leicester City,3,0,3,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Anthony Taylor,
+1017,26072020CryTot,Premier League,N/A,26/07/2020,16:00,Crystal Palace,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Selhurst Park ,London,England,Andre Marriner,
+1018,05012020MidTot,FA Cup,  3. Round,05/01/2020,14:01,Middlesbrough FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Riverside ,Middlesbrough,England,Stuart Attwell,26693
+1019,14012020TotMid,FA Cup,  3. Round,14/01/2020,20:05,Tottenham Hotspurs,Middlesbrough FC,2,0,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Craig Pawson,49202
+1020,25012020SouTot,FA Cup,  4. Round,25/01/2020,15:00,Southampton FC,Tottenham Hotspurs,0,0,1,1,Null,Null,Null,Null,D,Saint Mary's ,Southampton,England,Peter Bankes,29282
+1021,05022020TotSou,FA Cup,  4. Round,05/02/2020,19:45,Tottenham Hotspurs,Southampton FC,1,1,3,2,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,David Coote,56046
+1022,04032020TotNor,FA Cup,  Round of 16,04/03/2020,19:45,Tottenham Hotspurs,Norwich City,1,0,1,1,1,1,2,3,A,Tottenham Hotspur Stadium ,London,England,Paul Tierney,58007
+1023,24092019ColTot,League Cup,  3. Round,24/09/2019,19:45,Colchester United,Tottenham Hotspurs,0,0,0,0,Null,Null,4,3,H,JobServe Community Stadium ,Colchester,England,Jarred Gillett,9481
+1024,22102020TotLAS,Europa League,  Group J,22/10/2020,20:00,Tottenham Hotspurs,LASK,2,0,3,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Mohammed Al Hakim,
+1025,29102020RoyTot,Europa League,  Group J,29/10/2020,17:55,Royal Antwerp FC,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Bosuil ,Antwerp,Belgium,Maurizio Mariani,
+1026,05112020PFCTot,Europa League,  Group J,05/11/2020,17:55,PFC Ludogorets Razgrad,Tottenham Hotspurs,0,2,1,3,Null,Null,Null,Null,A,Huvepharma Arena ,Razgrad,Bulgaria,Fran Jović,
+1027,26112020TotPFC,Europa League,  Group J,26/11/2020,20:00,Tottenham Hotspurs,PFC Ludogorets Razgrad,2,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Giorgi Kruashvili,
+1028,03122020LASTot,Europa League,  Group J,03/12/2020,17:55,LASK,Tottenham Hotspurs,1,1,3,3,Null,Null,Null,Null,D,Linzer Stadion ,Linz,Austria,Paweł Raczkowski,
+1029,10122020TotRoy,Europa League,  Group J,10/12/2020,20:00,Tottenham Hotspurs,Royal Antwerp FC,0,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Jesús Gil Manzano,2000
+1030,18022021TotWol,Europa League,  Round of 32,18/02/2021,17:55,Tottenham Hotspurs,Wolfsberger AC,3,0,4,1,Null,Null,Null,Null,H,Puskás Aréna ,Budapest,Hungary,Ali Palabıyık,
+1031,24022021TotWol,Europa League,  Round of 32,24/02/2021,17:00,Tottenham Hotspurs,Wolfsberger AC,1,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Matej Jug,
+1032,11032021TotDin,Europa League,  Round of 16,11/03/2021,20:00,Tottenham Hotspurs,Dinamo Zagreb,1,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Serdar Gözübüyük,
+1033,18032021DinTot,Europa League,  Round of 16,18/03/2021,17:55,Dinamo Zagreb,Tottenham Hotspurs,0,0,2,0,3,0,3,0,H,Maksimir ,Zagreb,Croatia,Davide Massa,
+1034,17092020LokTot,Europa League, Qual.  2. Round,17/09/2020,17:00,Lokomotiv Plovdiv,Tottenham Hotspurs,0,0,1,2,Null,Null,Null,Null,A,Lokomotiv ,Plovdiv,Bulgaria,Harm Osmers,
+1035,24092020KF Tot,Europa League, Qual.  3. Round,24/09/2020,19:00,KF Shkëndija 79,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,Toše Proeski National Arena ,Skopje,NorthMacedonia,Ali Palabıyık,
+1036,01102020TotMac,Europa League, Qual.  Play-offs,01/10/2020,20:00,Tottenham Hotspurs,Maccabi Haifa,4,1,7,2,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Ruddy Buquet,
+1037,02072020SheTot,Premier League,N/A,02/07/2020,18:00,Sheffield United,Tottenham Hotspurs,1,0,3,1,Null,Null,Null,Null,H,Bramall Lane ,Sheffield,England,Chris Kavanagh,
+1038,06072020TotEve,Premier League,N/A,06/07/2020,20:00,Tottenham Hotspurs,Everton FC,1,0,1,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Graham Scott,
+1039,09072020AFCTot,Premier League,N/A,09/07/2020,18:00,AFC Bournemouth,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Vitality Stadium ,Bournemouth,England,Paul Tierney,
+1040,12072020TotArs,Premier League,N/A,12/07/2020,16:30,Tottenham Hotspurs,Arsenal FC,1,1,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Michael Oliver,
+1041,15072020NewTot,Premier League,N/A,15/07/2020,18:00,Newcastle United,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,St James' Park ,Newcastle,England,David Coote,
+1042,19072020TotLei,Premier League,N/A,19/07/2020,16:00,Tottenham Hotspurs,Leicester City,3,0,3,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Anthony Taylor,
+1043,26072020CryTot,Premier League,N/A,26/07/2020,16:00,Crystal Palace,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Selhurst Park ,London,England,Andre Marriner,
+1044,13092020TotEve,Premier League,N/A,13/09/2020,16:30,Tottenham Hotspurs,Everton FC,0,0,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Martin Atkinson,
+1045,20092020SouTot,Premier League,N/A,20/09/2020,12:00,Southampton FC,Tottenham Hotspurs,1,1,2,5,Null,Null,Null,Null,A,Saint Mary's ,Southampton,England,David Coote,
+1046,27092020TotNew,Premier League,N/A,27/09/2020,14:00,Tottenham Hotspurs,Newcastle United,1,0,1,1,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Peter Bankes,
+1047,04102020ManTot,Premier League,N/A,04/10/2020,16:30,Manchester United,Tottenham Hotspurs,1,4,1,6,Null,Null,Null,Null,A,Old Trafford ,Manchester,England,Anthony Taylor,
+1048,18102020TotWes,Premier League,N/A,18/10/2020,16:30,Tottenham Hotspurs,West Ham United,3,0,3,3,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Paul Tierney,
+1049,26102020BurTot,Premier League,N/A,26/10/2020,20:00,Burnley FC,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,Turf Moor ,Burnley,England,Michael Oliver,
+1050,01112020TotBri,Premier League,N/A,01/11/2020,19:15,Tottenham Hotspurs,Brighton & Hove Albion,1,0,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Graham Scott,
+1051,08112020WesTot,Premier League,N/A,08/11/2020,12:00,West Bromwich Albion,Tottenham Hotspurs,0,0,0,1,Null,Null,Null,Null,A,The Hawthorns ,WestBromwich,England,Andy Madley,
+1052,21112020TotMan,Premier League,N/A,21/11/2020,17:30,Tottenham Hotspurs,Manchester City,1,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Mike Dean,
+1053,29112020CheTot,Premier League,N/A,29/11/2020,16:30,Chelsea FC,Tottenham Hotspurs,0,0,0,0,Null,Null,Null,Null,D,Stamford Bridge ,London,England,Paul Tierney,
+1054,06122020TotArs,Premier League,N/A,06/12/2020,16:30,Tottenham Hotspurs,Arsenal FC,2,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Martin Atkinson,2000
+1055,13122020CryTot,Premier League,N/A,13/12/2020,14:15,Crystal Palace,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Selhurst Park ,London,England,Kevin Friend,2000
+1056,16122020LivTot,Premier League,N/A,16/12/2020,20:00,Liverpool FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Anfield ,Liverpool,England,Anthony Taylor,2000
+1057,20122020TotLei,Premier League,N/A,20/12/2020,14:15,Tottenham Hotspurs,Leicester City,0,1,0,2,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Craig Pawson,
+1058,27122020WolTot,Premier League,N/A,27/12/2020,19:15,Wolverhampton Wanderers,Tottenham Hotspurs,0,1,1,1,Null,Null,Null,Null,D,Molineux Stadium ,Wolverhampton,England,Paul Tierney,
+1059,02012021TotLee,Premier League,N/A,02/01/2021,12:30,Tottenham Hotspurs,Leeds United,2,0,3,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,David Coote,
+1060,13012021TotFul,Premier League,N/A,13/01/2021,20:15,Tottenham Hotspurs,Fulham FC,1,0,1,1,Null,Null,Null,Null,D,Tottenham Hotspur Stadium ,London,England,Paul Tierney,
+1061,17012021SheTot,Premier League,N/A,17/01/2021,14:00,Sheffield United,Tottenham Hotspurs,0,2,1,3,Null,Null,Null,Null,A,Bramall Lane ,Sheffield,England,Andre Marriner,
+1062,28012021TotLiv,Premier League,N/A,28/01/2021,20:00,Tottenham Hotspurs,Liverpool FC,0,1,1,3,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Martin Atkinson,
+1063,31012021BriTot,Premier League,N/A,31/01/2021,19:15,Brighton & Hove Albion,Tottenham Hotspurs,1,0,1,0,Null,Null,Null,Null,H,Amex Stadium ,Brighton,England,Peter Bankes,
+1064,04022021TotChe,Premier League,N/A,04/02/2021,20:00,Tottenham Hotspurs,Chelsea FC,0,1,0,1,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Andre Marriner,
+1065,07022021TotWes,Premier League,N/A,07/02/2021,12:00,Tottenham Hotspurs,West Bromwich Albion,0,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Stuart Attwell,
+1066,13022021ManTot,Premier League,N/A,13/02/2021,17:30,Manchester City,Tottenham Hotspurs,1,0,3,0,Null,Null,Null,Null,H,Etihad Stadium ,Manchester,England,Paul Tierney,
+1067,21022021WesTot,Premier League,N/A,21/02/2021,12:00,West Ham United,Tottenham Hotspurs,1,0,2,1,Null,Null,Null,Null,H,London Stadium ,London,England,Craig Pawson,
+1068,28022021TotBur,Premier League,N/A,28/02/2021,14:00,Tottenham Hotspurs,Burnley FC,3,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Kevin Friend,
+1069,04032021FulTot,Premier League,N/A,04/03/2021,18:00,Fulham FC,Tottenham Hotspurs,0,1,0,1,Null,Null,Null,Null,A,Craven Cottage ,London,England,David Coote,
+1070,07032021TotCry,Premier League,N/A,07/03/2021,19:15,Tottenham Hotspurs,Crystal Palace,1,1,4,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Stuart Attwell,
+1071,14032021ArsTot,Premier League,N/A,14/03/2021,16:30,Arsenal FC,Tottenham Hotspurs,1,1,2,1,Null,Null,Null,Null,H,Emirates Stadium ,London,England,Michael Oliver,
+1072,21032021AstTot,Premier League,N/A,21/03/2021,19:30,Aston Villa,Tottenham Hotspurs,0,1,0,2,Null,Null,Null,Null,A,Villa Park ,Birmingham,England,Mike Dean,
+1073,04042021NewTot,Premier League,N/A,04/04/2021,14:05,Newcastle United,Tottenham Hotspurs,1,2,2,2,Null,Null,Null,Null,D,St James' Park ,Newcastle,England,Craig Pawson,
+1074,11042021TotMan,Premier League,N/A,11/04/2021,16:30,Tottenham Hotspurs,Manchester United,1,0,1,3,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Chris Kavanagh,
+1075,16042021EveTot,Premier League,N/A,16/04/2021,20:00,Everton FC,Tottenham Hotspurs,1,1,2,2,Null,Null,Null,Null,D,Goodison Park ,Liverpool,England,Michael Oliver,
+1076,21042021TotSou,Premier League,N/A,21/04/2021,18:00,Tottenham Hotspurs,Southampton FC,0,1,2,1,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,David Coote,
+1077,02052021TotShe,Premier League,N/A,02/05/2021,19:15,Tottenham Hotspurs,Sheffield United,1,0,4,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Andre Marriner,
+1078,08052021LeeTot,Premier League,N/A,08/05/2021,12:30,Leeds United,Tottenham Hotspurs,2,1,3,1,Null,Null,Null,Null,H,Elland Road ,Leeds,England,Michael Oliver,
+1079,16052021TotWol,Premier League,N/A,16/05/2021,14:05,Tottenham Hotspurs,Wolverhampton Wanderers,1,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Martin Atkinson,
+1080,19052021TotAst,Premier League,N/A,19/05/2021,18:00,Tottenham Hotspurs,Aston Villa,1,2,1,2,Null,Null,Null,Null,A,Tottenham Hotspur Stadium ,London,England,Craig Pawson,10000
+1081,23052021LeiTot,Premier League,N/A,23/05/2021,16:00,Leicester City,Tottenham Hotspurs,1,1,2,4,Null,Null,Null,Null,A,King Power Stadium ,Leicester,England,Anthony Taylor,8000
+1082,10012021MarTot,FA Cup,  3. Round,10/01/2021,17:00,Marine AFC,Tottenham Hotspurs,0,4,0,5,Null,Null,Null,Null,A,Rossett Park ,Crosby,England,Michael Oliver,
+1083,25012021WycTot,FA Cup,  4. Round,25/01/2021,19:45,Wycombe Wanderers,Tottenham Hotspurs,1,1,1,4,Null,Null,Null,Null,A,Adams Park ,Wycombe,England,Jonathan Moss,
+1084,10022021EveTot,FA Cup,  Round of 16,10/02/2021,20:15,Everton FC,Tottenham Hotspurs,3,2,4,4,5,4,Null,Null,H,Goodison Park ,Liverpool,England,David Coote,
+1085,22092020LeyTot,League Cup,  3. Round,22/09/2020,Null,Leyton Orient,Tottenham Hotspurs,Null,Null,Null,Null,Null,Null,Null,Null,H,Brisbane Road ,Leyton,England,David Coote,
+1086,29092020TotChe,League Cup,  Round of 16,29/09/2020,19:45,Tottenham Hotspurs,Chelsea FC,0,1,1,1,Null,Null,5,4,H,Tottenham Hotspur Stadium ,London,England,Lee Mason,
+1087,23122020StoTot,League Cup,  Quarter-finals,23/12/2020,17:30,Stoke City,Tottenham Hotspurs,0,1,1,3,Null,Null,Null,Null,A,bet365 Stadium ,Stoke-on-Trent,England,Darren England,
+1088,05012021TotBre,League Cup,  Semi-finals,05/01/2021,19:45,Tottenham Hotspurs,Brentford FC,1,0,2,0,Null,Null,Null,Null,H,Tottenham Hotspur Stadium ,London,England,Mike Dean,
+1089,25042021TotMan,League Cup,  Final,25/04/2021,16:30,Tottenham Hotspurs,Manchester City,0,0,0,1,Null,Null,Null,Null,A,Wembley Stadium ,London,England,Paul Tierney,7773
