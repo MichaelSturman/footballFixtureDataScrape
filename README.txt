@@ -9,4 +9,4 @@ is complete with the exception (mainly) of early round FA/League Cup game and Fr
 - 'competition' value is locked in to English ones. Could easily be adapted for other leagues with a bit of effort, as the general format
 of the data is the same
 - No work done to extract team managers. Could be interesting to investigate "new manager bounce" and generally track manager performance.
-Something to impliment in the future
+Something to implement in the future
