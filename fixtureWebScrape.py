@@ -36,6 +36,15 @@ warnings.filterwarnings("ignore")
 
 def teamRange(yearStart, yearEnd, team):
 
+    teamWords = team.split('-')
+    teamName = ""
+    for word in teamWords:
+        if word != "fc":
+            word = word.capitalize()
+            teamName += word + " "
+    
+    print(teamName)
+
     cols = {"uniqueID": [], "competition": [], "round": [], "date": [], "time": [], "homeTeam": [], "awayTeam": [], "firstHalfGoalsH": [],
         "firstHalfGoalsA": [], "secondHalfGoalsH": [], "secondHalfGoalsA": [], "extraTimeGoalsH": [], "extraTimeGoalsA": [], 
         "penShootoutH": [], "penShootoutA": [], "resFT": [],  "venue": [], "city": [], "country": [], "referee": [], 
@@ -103,13 +112,13 @@ def teamRange(yearStart, yearEnd, team):
 
                     if tableRows[i].contents[7].contents[0] == "A":
                         homeTeam = tableRows[i].contents[11].contents[1].contents[0]
-                        awayTeam = "Tottenham Hotspurs"
+                        awayTeam = teamName
                     elif tableRows[i].contents[7].contents[0] == "H":
-                        homeTeam = "Tottenham Hotspurs"
+                        homeTeam = teamName
                         awayTeam = tableRows[i].contents[11].contents[1].contents[0]           
                     # N - playing a stadium which is neither team's home. Just put the team looped over as home
                     elif(tableRows[i].contents[7].contents[0] == "N"):
-                        homeTeam = "Tottenham Hotspurs"
+                        homeTeam = teamName
                         awayTeam = tableRows[i].contents[11].contents[1].contents[0]           
                     else:
                         print("something wrong - Home/Away Teams")
@@ -248,12 +257,19 @@ def teamRange(yearStart, yearEnd, team):
                     # From inspection, 5 seems to be our player data, manager data and data on who scored. Length 3 formatting
                     # information for the table. 
 
-                    fixtureData = fixtureData.append({'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'competition': competition, 'round': round,
+                    print({'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'competition': competition, 'round': round,
                                         'date': date, 'time': time, 'homeTeam': homeTeam, 'awayTeam': awayTeam, 'firstHalfGoalsH': halfTimeHomeGoals,
                                         'firstHalfGoalsA': halfTimeAwayGoals, 'secondHalfGoalsH': fullTimeHomeGoals , 'secondHalfGoalsA': fullTimeAwayGoals,
                                         'extraTimeGoalsH': extraTimeHomeGoals,  'extraTimeGoalsA': extraTimeAwayGoals, 'penShootoutH': penHomeGoals, 
                                         'penShootoutA': penAwayGoals, 'resFT': result, 'venue': venue, 'city': city, 'country': country, 'referee': referee, 
-                                        'attendance': attendance}, ignore_index=True)
+                                        'attendance': attendance})
+
+                    fixtureData = pd.concat([fixtureData, pd.DataFrame.from_records([{'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'competition': competition, 'round': round,
+                                        'date': date, 'time': time, 'homeTeam': homeTeam, 'awayTeam': awayTeam, 'firstHalfGoalsH': halfTimeHomeGoals,
+                                        'firstHalfGoalsA': halfTimeAwayGoals, 'secondHalfGoalsH': fullTimeHomeGoals , 'secondHalfGoalsA': fullTimeAwayGoals,
+                                        'extraTimeGoalsH': extraTimeHomeGoals,  'extraTimeGoalsA': extraTimeAwayGoals, 'penShootoutH': penHomeGoals, 
+                                        'penShootoutA': penAwayGoals, 'resFT': result, 'venue': venue, 'city': city, 'country': country, 'referee': referee, 
+                                        'attendance': attendance}])])
 
                 else:
                     pass
@@ -263,10 +279,11 @@ def main():
 
     startDate = 2000
     endDate = 2022
-    team = "tottenham-hotspur"
+    teams = ["chelsea-fc", "manchester-united", "liverpool-fc", "manchester-city"]
 
-    output = teamRange(startDate, endDate, team)
-    output.to_csv(str(startDate) + str(endDate) + team + ".csv", encoding='utf-8')
+    for team in teams:
+        output = teamRange(startDate, endDate, team)
+        output.to_csv(str(startDate) + str(endDate) + team + ".csv", encoding='utf-8')
 
 if __name__ == "__main__":
     main()
