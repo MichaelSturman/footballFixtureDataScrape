@@ -3,12 +3,12 @@ from bs4 import BeautifulSoup
 import requests
 import pandas as pd
 import re
+import csv
 
 import warnings
 warnings.filterwarnings("ignore")
 
-
-# First attempt made from ESPN website, but came to life that the attendence figures are very patchy. Will be using 
+# First attempt made from ESPN website, but the attendence figures are very patchy. Will be using 
 # the https://www.worldfootball.net/teams/tottenham-hotspur/2022/3/ site this time - data goes back further and has 
 # complete attendence figures from the exploratory analysis performed.
 
@@ -17,13 +17,13 @@ warnings.filterwarnings("ignore")
 
 # Analysis of the 17 rows:
 # 0 - Empty
-# 1 - Title of the competition (friendlies clubs 21, PL, etc
+# 1 - Title of the competition (friendlies clubs 21, PL, etc)
 # 2 - Empty
 # 3 - Date of the match
 # 4 - Empty
 # 5 - Time of the match
 # 6 - Empty
-# 7 - A/H [for Tottenham/team whos page we are on]
+# 7 - A/H [for team whos page we are on]
 # 8 - Empty
 # 9 - Image of the opposition badge
 # 10 - Empty
@@ -34,7 +34,7 @@ warnings.filterwarnings("ignore")
 # 15 - No relevant data 
 # 16 - Empty
 
-def teamRange(yearStart, yearEnd, team):
+def teamRange(nation, yearStart, yearEnd, team):
 
     teamWords = team.split('-')
     teamName = ""
@@ -45,7 +45,7 @@ def teamRange(yearStart, yearEnd, team):
     
     print(teamName)
 
-    cols = {"uniqueID": [], "competition": [], "round": [], "date": [], "time": [], "homeTeam": [], "awayTeam": [], "firstHalfGoalsH": [],
+    cols = {"uniqueID": [], "season": [], "competition": [], "round": [], "date": [], "time": [], "homeTeam": [], "awayTeam": [], "firstHalfGoalsH": [],
         "firstHalfGoalsA": [], "secondHalfGoalsH": [], "secondHalfGoalsA": [], "extraTimeGoalsH": [], "extraTimeGoalsA": [], 
         "penShootoutH": [], "penShootoutA": [], "resFT": [],  "venue": [], "city": [], "country": [], "referee": [], 
         "attendance": []}
@@ -55,50 +55,97 @@ def teamRange(yearStart, yearEnd, team):
     stemURL = "https://www.worldfootball.net"
 
     for yr in range(yearStart, yearEnd):
-        
+
         print(yr)
         url = stemURL + "/teams/"+ team + "/" + str(yr) + "/3/"
-        soup = BeautifulSoup(requests.get(url).text, "html.parser")
+        #soup = BeautifulSoup(requests.get(url).text, "html.parser")
+        soup = BeautifulSoup(requests.get(url).content.decode('utf-8'), "html.parser")
+
         tableRows = soup.find_all('tr')
 
         for i in range(0, len(tableRows)):    
             if len(tableRows[i]) > 15:
                 if tableRows[i].contents[1].contents[0]['title'][0:6] != "Friend":
                     competition = tableRows[i].contents[1].contents[0]['title']
-
-                    # Reformat competiton using regex pattern match. Considers only English teams that have been
-                    # only in the prem. 
+                    # Reformat competiton using regex pattern match. Considers only English teams. Would need reformatting for foreign ones
+                    # but shouldn't take more effort than just swapping out names
                     round = 'N/A'
+                    #season = 'err'
 
-                    if (re.search('.*Premier League.*', str(competition)) != None):
-                        competition = 'Premier League'
-                    
-                    elif (re.search('.*Champions League.*', str(competition)) != None):
-                        round = competition.replace('Champions League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'Champions League'
-                    
-                    elif (re.search('.*League Cup.*', str(competition)) != None):
-                        round = competition.replace('League Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'League Cup'
-                    
-                    elif (re.search('.*FA Cup.*', str(competition)) != None):
-                        round = competition.replace('FA Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'FA Cup'
+                    if nation == 'England':
+                        # Domestic Leagues England
+                        if (re.search('.*Premier League.*', str(competition)) != None): 
+                            season = competition.replace('Premier League', "").strip().split()[0]
+                            competition = 'Premier League'
+                        
+                        elif (re.search('.*Championship.*', str(competition)) != None): 
+                            season = competition.replace('Championship', "").strip().split()[0]
+                            competition = 'Championship'
 
-                    elif (re.search('.*Europa League.*', str(competition)) != None):
-                        round = competition.replace('Europa League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'Europa League'
-                    
-                    elif (re.search('.*Conference League.*', str(competition)) != None):
-                        round = competition.replace('Europa Conference League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'Europa Conference League' 
-
-                    elif (re.search(".*Cup Winners Cup.*", str(competition)) != None):
-                        round = competition.replace('Cup Winners Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "")
-                        competition = 'Cup Winners Cup'
+                        # Domestic Trophies
+                        elif (re.search('.*League Cup.*', str(competition)) != None):
+                            round = competition.replace('League Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                            season = competition.replace('League Cup', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                            competition = 'League Cup'
+                        
+                        elif (re.search('.*FA Cup.*', str(competition)) != None):
+                            round = competition.replace('FA Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                            season = competition.replace('FA Cup', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                            competition = 'FA Cup'
+                        
+                        elif (re.search('.*FA Community Shield.*', str(competition)) != None):
+                            endSeason = competition.replace('FA Community Shield', "").replace('Final', "").strip() 
+                            season = str(int(endSeason) - 1) + '/' + endSeason
+                            round = 'Final'
+                            competition = 'FA Community Shield'
                     
                     else:
+                        print('Invalid Nation')
+                        print(nation)
+                        exit()
+
+                    # European/International Trophies      
+                    if (re.search('.*Champions League.*', str(competition)) != None):
+                        round = competition.replace('Champions League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                        season = competition.replace('Champions League', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                        competition = 'Champions League'
+                        
+                    elif (re.search('.*Europa League.*', str(competition)) != None):
+                        round = competition.replace('Europa League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                        season = competition.replace('Europa League', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                        competition = 'Europa League'
+                    
+                    elif (re.search('.*UEFA Super Cup.*', str(competition)) != None): 
+                        endSeason = competition.replace('UEFA Super Cup', "").replace('Final', "").strip()
+                        season = str(int(endSeason) - 1) + '/' + endSeason
+                        print(season)
+                        competition = 'UEFA Super Cup'
+                        round = 'Final'
+
+                    elif (re.search('.*Conference League.*', str(competition)) != None):
+                        round = competition.replace('Europa Conference League', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                        season = competition.replace('Europa Conference League', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                        competition = 'Europa Conference League' 
+
+                    elif (re.search('.*Intercontinental Cup.*', str(competition)) != None): 
+                        season = competition.replace('Intercontinental Cup', "").strip().split()[0]
+                        competition = 'Intercontinental Cup'    
+                                      
+                    elif (re.search(".*Cup Winners Cup.*", str(competition)) != None):
+                        round = competition.replace('Cup Winners Cup', "").replace(str(yr), "").replace(str(yr-1), "").replace("/", "").strip()
+                        season = competition.replace('Cup Winners Cup', "").replace(round, "").replace('Qual.', "").strip().split()[0]
+                        competition = 'Cup Winners Cup'
+                    
+                    elif (re.search(".*Club World Cup.*", str(competition)) != None):
+                        round = competition.replace('Club World Cup', "").split()[1]
+                        seasonEnd = competition.replace('Club World Cup', "").split()[0].strip()
+                        season = str(int(seasonEnd) - 1) + '/' + seasonEnd
+                        competition = 'Club World Cup'
+
+                    else:
                         pass
+                
+                    print(season)
 
                     date = tableRows[i].contents[3].contents[0].contents[0]
 
@@ -108,7 +155,8 @@ def teamRange(yearStart, yearEnd, team):
                         time = "Null"
                     else:
                         "something wrong - Time"
-                        break
+                        print(time)
+                        exit()
 
                     if tableRows[i].contents[7].contents[0] == "A":
                         homeTeam = tableRows[i].contents[11].contents[1].contents[0]
@@ -122,8 +170,10 @@ def teamRange(yearStart, yearEnd, team):
                         awayTeam = tableRows[i].contents[11].contents[1].contents[0]           
                     else:
                         print("something wrong - Home/Away Teams")
-                        break
+                        print(homeTeam, awayTeam)
+                        exit()
 
+                    print(awayTeam)
                     # figuring out scores (fiddly with pso/aet etc)
                     # also - the scores have the team whos page you are ons goals first regardless of H/A.
                     # flip the strings where appropriate
@@ -146,8 +196,14 @@ def teamRange(yearStart, yearEnd, team):
                     extraTimeHomeGoals = extraTimeAwayGoals = penHomeGoals = penAwayGoals = 'Null'
                     
                     if len(scoresArr) == 2:
-                        halfTimeScore = scoresArr[1].split(':')
-                        fullTimeScore = scoresArr[0].split(':')
+                        print(scoresArr)
+
+                        if scoresArr[1] == 'dec.' or scoresArr[0] == 'dec.':
+                            halfTimeScore = fullTimeScore = '3:0'
+                        
+                        else:
+                            halfTimeScore = scoresArr[1].split(':')
+                            fullTimeScore = scoresArr[0].split(':')
                         
                         halfTimeHomeGoals = halfTimeScore[0]
                         halfTimeAwayGoals = halfTimeScore[1]
@@ -257,14 +313,7 @@ def teamRange(yearStart, yearEnd, team):
                     # From inspection, 5 seems to be our player data, manager data and data on who scored. Length 3 formatting
                     # information for the table. 
 
-                    print({'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'competition': competition, 'round': round,
-                                        'date': date, 'time': time, 'homeTeam': homeTeam, 'awayTeam': awayTeam, 'firstHalfGoalsH': halfTimeHomeGoals,
-                                        'firstHalfGoalsA': halfTimeAwayGoals, 'secondHalfGoalsH': fullTimeHomeGoals , 'secondHalfGoalsA': fullTimeAwayGoals,
-                                        'extraTimeGoalsH': extraTimeHomeGoals,  'extraTimeGoalsA': extraTimeAwayGoals, 'penShootoutH': penHomeGoals, 
-                                        'penShootoutA': penAwayGoals, 'resFT': result, 'venue': venue, 'city': city, 'country': country, 'referee': referee, 
-                                        'attendance': attendance})
-
-                    fixtureData = pd.concat([fixtureData, pd.DataFrame.from_records([{'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'competition': competition, 'round': round,
+                    fixtureData = pd.concat([fixtureData, pd.DataFrame.from_records([{'uniqueID': date.replace("/", "") + homeTeam[0:3] + awayTeam[0:3], 'season': season, 'competition': competition, 'round': round,
                                         'date': date, 'time': time, 'homeTeam': homeTeam, 'awayTeam': awayTeam, 'firstHalfGoalsH': halfTimeHomeGoals,
                                         'firstHalfGoalsA': halfTimeAwayGoals, 'secondHalfGoalsH': fullTimeHomeGoals , 'secondHalfGoalsA': fullTimeAwayGoals,
                                         'extraTimeGoalsH': extraTimeHomeGoals,  'extraTimeGoalsA': extraTimeAwayGoals, 'penShootoutH': penHomeGoals, 
@@ -276,15 +325,21 @@ def teamRange(yearStart, yearEnd, team):
     return fixtureData
 
 def main(): 
+    startDate = 2009
+    endDate = 2010
+    teams = ["manchester-united"]
+    # done: "chelsea", liverpool-fc", "manchester-city", "tottenham-hotspur", "manchester-united", "arsenal", 
 
-    startDate = 2000
-    endDate = 2022
-    teams = ["chelsea-fc", "manchester-united", "liverpool-fc", "manchester-city"]
+    # Currently only set up for English teams but have left nation as an argument to support expansion
+    nation = "England"
+
+    # to come - "manchester-united", , "arsenal-fc", "chelsea-fc", "liverpool-fc", "manchester-city", "tottenham-hotspur"
 
     for team in teams:
-        output = teamRange(startDate, endDate, team)
-        output.to_csv(str(startDate) + str(endDate) + team + ".csv", encoding='utf-8')
+        output = teamRange(nation, startDate, endDate, team)
+        output.to_csv(str(startDate) + str(endDate) + team + ".csv", encoding='utf-8-sig')
 
 if __name__ == "__main__":
     main()
 
+# https://en.wikipedia.org/wiki/Development_of_stadiums_in_English_football
