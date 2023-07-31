@@ -1,5 +1,4 @@
-This code contains a function that takes as arguments a premier league team (required to be in the same format as in the worldfootball.net url), a start date
-and an end date and returns details on fixtures.
+This code contains a function that takes as arguments a team (required to be in the same format as in the worldfootball.net url), a start date an end date and the country (currently only english teams from prem and championship) and returns details on fixtures.
 
 Limitations/Scope for improvement:
 - Need to input the team name in the right format. Could potentially improve using regex pattern matching - one to look at later
